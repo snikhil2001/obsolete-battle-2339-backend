@@ -4,8 +4,85 @@ const authMiddleware = require("../middleware/authMiddleware");
 
 const app = express.Router();
 
-app.get("/", (req, res) => {
-  return res.send("hello");
+app.get("/", async (req, res) => {
+  let {
+    title,
+    time,
+    calories,
+    bodyfocus,
+    trainingtype,
+    equipment,
+    limit,
+    page,
+  } = req.query;
+
+  try {
+    if (!limit) {
+      limit = 40;
+    }
+
+    if (!page) {
+      page = 1;
+    }
+
+    let product = await Workout.find()
+      .limit(+limit)
+      .skip((+page - 1) * +limit);
+
+    if (title) {
+      product = product.filter((el) => {
+        return (
+          el.title.toLowerCase().includes(title) || el.title.includes(title)
+        );
+      });
+    }
+
+    if (time) {
+      product = product.filter((el) => {
+        return (
+          el.primaryvalue.toLowerCase().includes(time + " " + "Min") ||
+          el.primaryvalue.includes(time + " " + "Min")
+        );
+      });
+    }
+
+    if (calories) {
+      product = product.filter((el) => {
+        return el.calories === calories;
+      });
+    }
+
+    if (bodyfocus) {
+      product = product.filter((el) => {
+        return (
+          el.primaryvalue.toLowerCase().includes(bodyfocus) ||
+          el.primaryvalue.includes(bodyfocus)
+        );
+      });
+    }
+
+    if (trainingtype) {
+      product = product.filter((el) => {
+        return (
+          el.trainingtype.toLowerCase().includes(trainingtype) ||
+          el.trainingtype.includes(trainingtype)
+        );
+      });
+    }
+
+    if (equipment) {
+      product = product.filter((el) => {
+        return (
+          el.equipment.toLowerCase().includes(equipment) ||
+          el.equipment.includes(equipment)
+        );
+      });
+    }
+
+    return res.send(product);
+  } catch (error) {
+    return res.status(404).send({ error: error.message });
+  }
 });
 
 app.get("/:id", async (req, res) => {
