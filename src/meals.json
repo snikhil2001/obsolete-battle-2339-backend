@@ -10,7 +10,8 @@
     "content-actions-msg": "As Low As",
     "price": "$3.99",
     "material-icons-outlined": "shopping_bag",
-    "btn-txt": "Add To Bag"
+    "btn-txt": "Add To Bag",
+    "category": "meals"
   },
   {
     "contents href": "https://www.fitnessblender.com/plans/meals-under-30-minutes-meal-plan-for-busy-people-1-week-omnivore-meal-plan",
@@ -23,7 +24,8 @@
     "content-actions-msg": "As Low As",
     "price": "$3.99",
     "material-icons-outlined": "shopping_bag",
-    "btn-txt": "Add To Bag"
+    "btn-txt": "Add To Bag",
+    "category": "meals"
   },
   {
     "contents href": "https://www.fitnessblender.com/plans/around-the-world-1-week-omnivore-meal-plan",
@@ -36,7 +38,8 @@
     "content-actions-msg": "As Low As",
     "price": "$3.99",
     "material-icons-outlined": "shopping_bag",
-    "btn-txt": "Add To Bag"
+    "btn-txt": "Add To Bag",
+    "category": "meals"
   },
   {
     "contents href": "https://www.fitnessblender.com/plans/4-week-meal-plan-eat-real-food-and-feel-great",
@@ -49,6 +52,7 @@
     "content-actions-msg": "As Low As",
     "price": "$24.99",
     "material-icons-outlined": "shopping_bag",
-    "btn-txt": "Add To Bag"
+    "btn-txt": "Add To Bag",
+    "category": "meals"
   }
 ]
