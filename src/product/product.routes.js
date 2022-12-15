@@ -1,6 +1,6 @@
 const express = require("express");
-const Workout = require("./workout.model");
 const authMiddleware = require("../middleware/authMiddleware");
+const Product = require("./product.model");
 
 const app = express.Router();
 
@@ -14,6 +14,8 @@ app.get("/", async (req, res) => {
     equipment,
     limit,
     page,
+    category,
+    weeks,
   } = req.query;
 
   try {
@@ -25,9 +27,15 @@ app.get("/", async (req, res) => {
       page = 1;
     }
 
-    let product = await Workout.find()
+    let product = await Product.find({ category })
       .limit(+limit)
       .skip((+page - 1) * +limit);
+
+    if (weeks) {
+      product = product.filter((el) => {
+        return el.week.toLowerCase().includes(weeks);
+      });
+    }
 
     if (title) {
       product = product.filter((el) => {
@@ -88,7 +96,7 @@ app.get("/", async (req, res) => {
 app.get("/:id", async (req, res) => {
   try {
     const { id } = req.params;
-    const product = await Workout.findById(id);
+    const product = await Product.findById(id);
 
     if (!product) {
       return res.status(404).send({ message: "Product not found" });
@@ -109,9 +117,14 @@ app.post("/", authMiddleware, async (req, res) => {
       trainingtype,
       equipment,
       calories,
+      week,
+      time,
+      desc,
+      price,
+      category,
     } = req.body;
 
-    const product = await Workout.create({
+    const product = await Product.create({
       image,
       title,
       subtitle,
@@ -119,6 +132,11 @@ app.post("/", authMiddleware, async (req, res) => {
       trainingtype,
       equipment,
       calories,
+      week,
+      time,
+      desc,
+      price,
+      category,
     });
 
     return res.status(201).send({ product });
@@ -127,7 +145,7 @@ app.post("/", authMiddleware, async (req, res) => {
   }
 });
 
-app.put("/:id", authMiddleware, async (req, res) => {
+app.patch("/:id", authMiddleware, async (req, res) => {
   try {
     const { id } = req.params;
     const {
@@ -138,8 +156,14 @@ app.put("/:id", authMiddleware, async (req, res) => {
       trainingtype,
       equipment,
       calories,
+      week,
+      time,
+      desc,
+      price,
+      category,
     } = req.body;
-    const product = await Workout.findByIdAndUpdate(
+
+    const product = await Product.findByIdAndUpdate(
       id,
       {
         image,
@@ -149,6 +173,11 @@ app.put("/:id", authMiddleware, async (req, res) => {
         trainingtype,
         equipment,
         calories,
+        week,
+        time,
+        desc,
+        price,
+        category,
       },
       { new: true }
     );
@@ -162,7 +191,7 @@ app.put("/:id", authMiddleware, async (req, res) => {
 app.delete("/:id", authMiddleware, async (req, res) => {
   try {
     const { id } = req.params;
-    const product = await Workout.findByIdAndDelete(id);
+    const product = await Product.findByIdAndDelete(id);
 
     return res.status(200).send({ product });
   } catch (error) {

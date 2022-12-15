@@ -6,7 +6,8 @@
     "time": "38 Min/Day",
     "title": "FB Pregnancy Series: Second Trimester Phase",
     "subtitle": "1-Week Workout Program for the Second Trimester of Pregnancy",
-    "price": "$3.99"
+    "price": "$3.99",
+    "category": "pilotprogram"
   },
   {
     "contents href": "https://www.fitnessblender.com/plans/fb-pregnancy-series-third-trimester-phase-1-week-workout-program-for-the-third-trimester-of",
@@ -15,7 +16,8 @@
     "time": "28 Min/Day",
     "title": "FB Pregnancy Series: Third Trimester Phase",
     "subtitle": "1-Week Workout Program for the Third Trimester of Pregnancy",
-    "price": "$3.99"
+    "price": "$3.99",
+    "category": "pilotprogram"
   },
   {
     "contents href": "https://www.fitnessblender.com/plans/fb-pregnancy-series-preconception-phase-1-week-workout-program-for-preconception",
@@ -24,7 +26,8 @@
     "time": "38 Min/Day",
     "title": "FB Pregnancy Series: Preconception Phase",
     "subtitle": "1-Week Workout Program for Preconception",
-    "price": "$3.99"
+    "price": "$3.99",
+    "category": "pilotprogram"
   },
   {
     "contents href": "https://www.fitnessblender.com/plans/fb-pregnancy-series-first-trimester-phase-1-week-workout-program-for-the-first-trimester-of",
@@ -33,7 +36,8 @@
     "time": "29 Min/Day",
     "title": "FB Pregnancy Series: First Trimester Phase",
     "subtitle": "1-Week Workout Program for the First Trimester of Pregnancy",
-    "price": "$3.99"
+    "price": "$3.99",
+    "category": "pilotprogram"
   },
   {
     "contents href": "https://www.fitnessblender.com/plans/2-week-stress-reduction-challenge",
@@ -42,6 +46,7 @@
     "time": "7 Min/Day",
     "title": "2-Week Stress Reduction Challenge",
     "subtitle": "Under 10 min/day",
-    "price": "$7.99"
+    "price": "$7.99",
+    "category": "pilotprogram"
   }
 ]
