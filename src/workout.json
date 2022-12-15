@@ -1,6 +1,6 @@
 [
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-hiit-with-extended-cool-down-tabata-inspired-intervals-and-feel-good-foam-rolling",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-hiit-with-extended-cool-down-tabata-inspired-intervals-and-feel-good-foam-rolling",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1150-30-minute-hiit-a15c.jpg",
     "title": "Quick HIIT With Extended Cool Down",
     "subtitle": "Tabata-Inspired Intervals and Feel-Good Foam Rolling",
@@ -11,10 +11,11 @@
     "detail-value 5": "32",
     "detail-value 6": "15",
     "detail-value 7": 6,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-weighted-circuits-with-bodyweight-tempo-training",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-weighted-circuits-with-bodyweight-tempo-training",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1156-lower-body-strength-bb7d.jpg",
     "title": "Lower Body Strength",
     "subtitle": "Weighted Circuits with Bodyweight Tempo Training",
@@ -25,10 +26,11 @@
     "detail-value 5": "106",
     "detail-value 6": "83",
     "detail-value 7": 17,
-    "-hidden": "• Challenging"
+    "-hidden": "• Challenging",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/express-upper-body-bored-easily-strength-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/express-upper-body-bored-easily-strength-intervals",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1155-express-upper-body-90e4.jpg",
     "title": "Express Upper Body",
     "subtitle": "Bored-Easily Strength Intervals",
@@ -39,10 +41,11 @@
     "detail-value 5": "357",
     "detail-value 6": "153",
     "detail-value 7": 19,
-    "-hidden": "• Feel-Good"
+    "-hidden": "• Feel-Good",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-corrective-circuit-unilateral-exercises-for-muscle-imbalances",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-corrective-circuit-unilateral-exercises-for-muscle-imbalances",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1148-lower-body-unilateral-training-8609.jpg",
     "title": "Lower Body Corrective Circuit",
     "subtitle": "Unilateral Exercises for Muscle Imbalances",
@@ -53,10 +56,11 @@
     "detail-value 5": "158",
     "detail-value 6": "57",
     "detail-value 7": 25,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-strength-circuit-training-with-push-ups-intermissions",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-strength-circuit-training-with-push-ups-intermissions",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1158-upper-body-strength-ab3b.jpg",
     "title": "Upper Body Strength",
     "subtitle": "Circuit Training With Push-Ups Intermissions",
@@ -67,10 +71,11 @@
     "detail-value 5": "382",
     "detail-value 6": "146",
     "detail-value 7": 28,
-    "-hidden": "• Challenging"
+    "-hidden": "• Challenging",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/kickboxing-kettlebell-and-core-board-easily-combo-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/kickboxing-kettlebell-and-core-board-easily-combo-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1167-kickboxing-kettlebell-and-core-b94e.jpg",
     "title": "Kickboxing, Kettlebell, and Core",
     "subtitle": "Bored Easily Combo Workout",
@@ -81,10 +86,11 @@
     "detail-value 5": "873",
     "detail-value 6": "353",
     "detail-value 7": 76,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/gentle-yoga-for-winding-down-all-levels-vinyasa-with-guided-meditation",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/gentle-yoga-for-winding-down-all-levels-vinyasa-with-guided-meditation",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1138-gentle-yoga-for-winding-down-9bac.jpg",
     "title": "Gentle Yoga for Winding Down",
     "subtitle": "All-Levels Vinyasa With Guided Meditation",
@@ -95,10 +101,11 @@
     "detail-value 5": "191",
     "detail-value 6": "66",
     "detail-value 7": 22,
-    "-hidden": "• Calming"
+    "-hidden": "• Calming",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/slow-tempo-strength-heavy-dumbbell-workout-for-building-muscle",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/slow-tempo-strength-heavy-dumbbell-workout-for-building-muscle",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1157-slow-tempo-strength-aae3.jpg",
     "title": "Slow Tempo Strength",
     "subtitle": "Heavy Dumbbell Workout for Building Muscle",
@@ -109,10 +116,11 @@
     "detail-value 5": "322",
     "detail-value 6": "129",
     "detail-value 7": 86,
-    "-hidden": "• Energizing, Chill"
+    "-hidden": "• Energizing, Chill",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/aerobic-step-hiit-ascending-and-descending-cardio-ladders",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/aerobic-step-hiit-ascending-and-descending-cardio-ladders",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1146-aerobic-step-hiit-a107.jpg",
     "title": "Aerobic Step HIIT",
     "subtitle": "Ascending and Descending Cardio Ladders",
@@ -123,10 +131,11 @@
     "detail-value 5": "207",
     "detail-value 6": "58",
     "detail-value 7": 22,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-and-hiit-cardio-with-low-impact-advanced-and-bodyweight-options",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-and-hiit-cardio-with-low-impact-advanced-and-bodyweight-options",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1161-lower-body-strength-and-hiit-cardio-ba59.jpg",
     "title": "Lower Body Strength and HIIT Cardio",
     "subtitle": "With Low Impact, Advanced, and Bodyweight Options",
@@ -137,10 +146,11 @@
     "detail-value 5": "1,239",
     "detail-value 6": "397",
     "detail-value 7": 99,
-    "-hidden": "• Fun"
+    "-hidden": "• Fun",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/30-minute-slow-flow-beginner-friendly-vinyasa-yoga",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/30-minute-slow-flow-beginner-friendly-vinyasa-yoga",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1151-30-minute-slow-flow-981b.jpg",
     "title": "30-Minute Slow Flow",
     "subtitle": "Beginner-Friendly Vinyasa Yoga",
@@ -151,10 +161,11 @@
     "detail-value 5": "397",
     "detail-value 6": "132",
     "detail-value 7": 78,
-    "-hidden": "• Empowering"
+    "-hidden": "• Empowering",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/weighted-cardio-hiit-scalable-high-impact-emom-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/weighted-cardio-hiit-scalable-high-impact-emom-circuits",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1131-weighted-cardio-hiit-9ac4.jpg",
     "title": "Weighted Cardio HIIT",
     "subtitle": "Scalable High-Impact EMOM Circuits",
@@ -165,10 +176,11 @@
     "detail-value 5": "525",
     "detail-value 6": "141",
     "detail-value 7": 29,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/beginner-friendly-cardio-warm-up-low-impact-feel-good-exercises",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/beginner-friendly-cardio-warm-up-low-impact-feel-good-exercises",
     "image": "",
     "title": "Beginner-Friendly Cardio Warm Up",
     "subtitle": "Low-Impact Feel-Good Exercises",
@@ -179,10 +191,11 @@
     "detail-value 5": "1,263",
     "detail-value 6": "359",
     "detail-value 7": 24,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/15-minute-cardio-boost-low-and-high-impact-total-body-exercises",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/15-minute-cardio-boost-low-and-high-impact-total-body-exercises",
     "image": "",
     "title": "15-Minute Cardio Boost",
     "subtitle": "Low- and High-Impact Total Body Exercises",
@@ -193,10 +206,11 @@
     "detail-value 5": "844",
     "detail-value 6": "248",
     "detail-value 7": 26,
-    "-hidden": "• Energizing"
+    "-hidden": "• Energizing",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/power-yoga-for-traditional-headstand-core-and-upper-body-strength-with-posture-technique",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/power-yoga-for-traditional-headstand-core-and-upper-body-strength-with-posture-technique",
     "image": "",
     "title": "Power Yoga for Traditional Headstand",
     "subtitle": "Core and Upper Body Strength With Posture Technique",
@@ -207,10 +221,11 @@
     "detail-value 5": "120",
     "detail-value 6": "45",
     "detail-value 7": 11,
-    "-hidden": "• Challenging"
+    "-hidden": "• Challenging",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/strength-with-cardio-bursts-upper-and-lower-body-sets-with-you-choose-cardio",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/strength-with-cardio-bursts-upper-and-lower-body-sets-with-you-choose-cardio",
     "image": "",
     "title": "Strength With Cardio Bursts",
     "subtitle": "Upper and Lower Body Sets With You-Choose Cardio",
@@ -221,10 +236,11 @@
     "detail-value 5": "771",
     "detail-value 6": "190",
     "detail-value 7": 46,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/no-equipment-total-body-cardio-add-on-style-circuit-with-emom-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/no-equipment-total-body-cardio-add-on-style-circuit-with-emom-finisher",
     "image": "",
     "title": "No Equipment Total Body Cardio",
     "subtitle": "Add-On Style Circuit With EMOM Finisher",
@@ -235,10 +251,11 @@
     "detail-value 5": "561",
     "detail-value 6": "205",
     "detail-value 7": 79,
-    "-hidden": "• Spicy"
+    "-hidden": "• Spicy",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/weighted-core-strength-functional-core-correction-and-cross-training",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/weighted-core-strength-functional-core-correction-and-cross-training",
     "image": "",
     "title": "Weighted Core Strength",
     "subtitle": "Functional Core Correction and Cross-Training",
@@ -249,10 +266,11 @@
     "detail-value 5": "547",
     "detail-value 6": "154",
     "detail-value 7": 47,
-    "-hidden": "• Empowering"
+    "-hidden": "• Empowering",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bored-easily-strength-dumbbell-workout-with-no-repeated-exercises",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bored-easily-strength-dumbbell-workout-with-no-repeated-exercises",
     "image": "",
     "title": "Bored Easily Strength",
     "subtitle": "Dumbbell Workout With No Repeated Exercises",
@@ -263,10 +281,11 @@
     "detail-value 5": "1,907",
     "detail-value 6": "632",
     "detail-value 7": 80,
-    "-hidden": "• Smart"
+    "-hidden": "• Smart",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bodyweight-cardio-circuits-total-body-progression-training",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bodyweight-cardio-circuits-total-body-progression-training",
     "image": "",
     "title": "Bodyweight Cardio Circuits",
     "subtitle": "Total Body Exercise Progressions",
@@ -277,10 +296,11 @@
     "detail-value 5": "910",
     "detail-value 6": "282",
     "detail-value 7": 65,
-    "-hidden": "• Sweaty"
+    "-hidden": "• Sweaty",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/restorative-bodyweight-workout-low-impact-exercises-for-sore-muscles",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/restorative-bodyweight-workout-low-impact-exercises-for-sore-muscles",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1083-restorative-bodyweight-workout-ac41.jpg",
     "title": "Restorative Bodyweight Workout",
     "subtitle": "Low Impact Exercises for Sore Muscles",
@@ -291,10 +311,11 @@
     "detail-value 5": "1,274",
     "detail-value 6": "530",
     "detail-value 7": 42,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/power-yoga-for-full-splits-lower-body-flexibility-and-mobility",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/power-yoga-for-full-splits-lower-body-flexibility-and-mobility",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1130-power-yoga-for-full-splits-a514.jpg",
     "title": "Power Yoga for Full Splits",
     "subtitle": "Lower Body Flexibility and Mobility",
@@ -305,10 +326,11 @@
     "detail-value 5": "405",
     "detail-value 6": "139",
     "detail-value 7": 25,
-    "-hidden": "• Feel-Good"
+    "-hidden": "• Feel-Good",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/unilateral-kettlebell-strength-with-advanced-mobility-and-core-stabilization",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/unilateral-kettlebell-strength-with-advanced-mobility-and-core-stabilization",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1109-unilateral-kettlebell-strength-818e.jpg",
     "title": "Unilateral Kettlebell Strength",
     "subtitle": "With Advanced Mobility and Core Stabilization",
@@ -319,10 +341,11 @@
     "detail-value 5": "279",
     "detail-value 6": "75",
     "detail-value 7": 22,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/low-impact-tabata-hiit-sweaty-level-5-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/low-impact-tabata-hiit-sweaty-level-5-circuits",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1139-low-impact-tabata-hiit-a11e.jpg",
     "title": "Low Impact Tabata HIIT",
     "subtitle": "Sweaty Level 5 Circuits",
@@ -333,10 +356,11 @@
     "detail-value 5": "1,295",
     "detail-value 6": "394",
     "detail-value 7": 91,
-    "-hidden": "• Sweaty"
+    "-hidden": "• Sweaty",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-two-day-split-pull-strengthen-the-rhombiods-lats-and-biceps",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-two-day-split-pull-strengthen-the-rhombiods-lats-and-biceps",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1098-upper-body-two-day-split-pull-9c47.jpg",
     "title": "Upper Body Two Day Split - Pull",
     "subtitle": "Strengthen the Rhombiods, Lats, and Biceps",
@@ -347,10 +371,11 @@
     "detail-value 5": "378",
     "detail-value 6": "120",
     "detail-value 7": 27,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/pilates-warm-up-total-body-dynamic-stretches-and-exercises",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/pilates-warm-up-total-body-dynamic-stretches-and-exercises",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1123-pilates-warm-up-8fa7.jpg",
     "title": "Pilates Warm-Up",
     "subtitle": "Total Body Dynamic Stretches and Exercises",
@@ -361,10 +386,11 @@
     "detail-value 5": "337",
     "detail-value 6": "92",
     "detail-value 7": 11,
-    "-hidden": "• Energizing"
+    "-hidden": "• Energizing",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/prenatal-hiit-and-core-circuits-to-prepare-for-birth",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/prenatal-hiit-and-core-circuits-to-prepare-for-birth",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1106-prenatal-hiit-and-core-ab22.jpg",
     "title": "Prenatal HIIT and Core",
     "subtitle": "Circuits to Prepare For Birth",
@@ -375,10 +401,11 @@
     "detail-value 5": "208",
     "detail-value 6": "71",
     "detail-value 7": 17,
-    "-hidden": "• Empowering"
+    "-hidden": "• Empowering",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/single-weight-strength-training-circuits-with-combination-moves",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/single-weight-strength-training-circuits-with-combination-moves",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1140-single-weight-strength-training-a899.jpg",
     "title": "Single Weight Strength Training",
     "subtitle": "Circuits With Combination Moves",
@@ -389,10 +416,11 @@
     "detail-value 5": "1,095",
     "detail-value 6": "284",
     "detail-value 7": 54,
-    "-hidden": "• Challenging"
+    "-hidden": "• Challenging",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bodyweight-hiit-pyramid-ascending-and-descending-cardio-rounds",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bodyweight-hiit-pyramid-ascending-and-descending-cardio-rounds",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1147-bodyweight-hiit-pyramid-a146.jpg",
     "title": "Bodyweight HIIT Pyramid",
     "subtitle": "Ascending and Descending Cardio Rounds",
@@ -403,10 +431,11 @@
     "detail-value 5": "826",
     "detail-value 6": "236",
     "detail-value 7": 152,
-    "-hidden": "• Fun"
+    "-hidden": "• Fun",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-mobility-advanced-floor-based-sequences",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-mobility-advanced-floor-based-sequences",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1125-total-body-mobility-8e9f.jpg",
     "title": "Total Body Mobility",
     "subtitle": "Advanced Floor-Based Sequences",
@@ -417,10 +446,11 @@
     "detail-value 5": "388",
     "detail-value 6": "113",
     "detail-value 7": 43,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/high-impact-cardio-intervals-total-body-plyometric-exercises",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/high-impact-cardio-intervals-total-body-plyometric-exercises",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1135-high-impact-cardio-intervals-90a4.jpg",
     "title": "High Impact Cardio Intervals",
     "subtitle": "Total Body Plyometric Exercises",
@@ -431,10 +461,11 @@
     "detail-value 5": "884",
     "detail-value 6": "246",
     "detail-value 7": 51,
-    "-hidden": "• Intense"
+    "-hidden": "• Intense",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-resistance-band-workout-exercises-for-hips-glutes-and-pelvic-stabilization",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-resistance-band-workout-exercises-for-hips-glutes-and-pelvic-stabilization",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1030-lower-body-resistance-band-workout-b0ec.jpg",
     "title": "Lower Body Resistance Band Workout",
     "subtitle": "Exercises for Hips, Glutes, and Pelvic Stabilization",
@@ -445,10 +476,11 @@
     "detail-value 5": "758",
     "detail-value 6": "257",
     "detail-value 7": 15,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/single-weight-upper-body-quick-strength-training-circuit",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/single-weight-upper-body-quick-strength-training-circuit",
     "image": "",
     "title": "Single Weight Upper Body",
     "subtitle": "Quick Strength Training Circuit",
@@ -459,10 +491,11 @@
     "detail-value 5": "2,605",
     "detail-value 6": "635",
     "detail-value 7": 77,
-    "-hidden": "• Energizing"
+    "-hidden": "• Energizing",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/glute-burnout-with-resistance-band-isolate-strengthen-and-tone-your-glutes",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/glute-burnout-with-resistance-band-isolate-strengthen-and-tone-your-glutes",
     "image": "",
     "title": "Glute Burnout With Resistance Band",
     "subtitle": "Isolate, Strengthen, and Tone Your Glutes",
@@ -473,10 +506,11 @@
     "detail-value 5": "703",
     "detail-value 6": "243",
     "detail-value 7": 28,
-    "-hidden": "• Spicy"
+    "-hidden": "• Spicy",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/power-yoga-for-wheel-pose-upper-body-and-core-with-posture-tutorial",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/power-yoga-for-wheel-pose-upper-body-and-core-with-posture-tutorial",
     "image": "",
     "title": "Power Yoga for Wheel Pose",
     "subtitle": "Upper Body and Core With Posture Tutorial",
@@ -487,10 +521,11 @@
     "detail-value 5": "173",
     "detail-value 6": "60",
     "detail-value 7": 20,
-    "-hidden": "• Energizing"
+    "-hidden": "• Energizing",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/advanced-tabata-hiit-weighted-and-bodyweight-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/advanced-tabata-hiit-weighted-and-bodyweight-circuits",
     "image": "",
     "title": "Advanced Tabata HIIT",
     "subtitle": "Weighted and Bodyweight Circuits",
@@ -501,10 +536,11 @@
     "detail-value 5": "1,073",
     "detail-value 6": "279",
     "detail-value 7": 65,
-    "-hidden": "• Intense"
+    "-hidden": "• Intense",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-dumbbell-and-cardio-circuits-upper-and-lower-body-strength-with-cardio",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-dumbbell-and-cardio-circuits-upper-and-lower-body-strength-with-cardio",
     "image": "",
     "title": "Quick Dumbbell and Cardio Circuits",
     "subtitle": "Upper and Lower Body Strength With Cardio",
@@ -515,10 +551,11 @@
     "detail-value 5": "1,407",
     "detail-value 6": "384",
     "detail-value 7": 257,
-    "-hidden": "• Challenging"
+    "-hidden": "• Challenging",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/exercises-for-a-stronger-back-unconventional-stretches-and-mobility-moves",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/exercises-for-a-stronger-back-unconventional-stretches-and-mobility-moves",
     "image": "",
     "title": "Exercises for a Stronger Back",
     "subtitle": "Unconventional Stretches and Mobility Moves",
@@ -529,10 +566,11 @@
     "detail-value 5": "680",
     "detail-value 6": "246",
     "detail-value 7": 87,
-    "-hidden": "• Restorative"
+    "-hidden": "• Restorative",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/beginner-power-yoga-posture-tutorial-and-technique",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/beginner-power-yoga-posture-tutorial-and-technique",
     "image": "",
     "title": "Beginner Power Yoga",
     "subtitle": "Posture Tutorial and Technique",
@@ -543,10 +581,11 @@
     "detail-value 5": "220",
     "detail-value 6": "111",
     "detail-value 7": 16,
-    "-hidden": "• Challenging"
+    "-hidden": "• Challenging",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-lower-body-strength-single-weight-circuit-with-cardio-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-lower-body-strength-single-weight-circuit-with-cardio-finisher",
     "image": "",
     "title": "Quick Lower Body Strength",
     "subtitle": "Single-Weight Circuit With Cardio Finisher",
@@ -557,10 +596,11 @@
     "detail-value 5": "1,100",
     "detail-value 6": "298",
     "detail-value 7": 46,
-    "-hidden": "• Energizing"
+    "-hidden": "• Energizing",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-two-day-split-push-increase-strength-in-the-chest-shoulders-and-triceps",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-two-day-split-push-increase-strength-in-the-chest-shoulders-and-triceps",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1084-upper-body-two-day-split-push-b037.jpg",
     "title": "Upper Body Two Day Split - Push",
     "subtitle": "Increase Strength in the Chest, Shoulders, and Triceps",
@@ -571,10 +611,11 @@
     "detail-value 5": "527",
     "detail-value 6": "147",
     "detail-value 7": 37,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/low-back-saver-exercises-to-prevent-and-relieve-back-pain",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/low-back-saver-exercises-to-prevent-and-relieve-back-pain",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1121-low-back-saver-aa9a.jpg",
     "title": "Low Back Saver",
     "subtitle": "Exercises to Prevent and Relieve Back Pain",
@@ -585,10 +626,11 @@
     "detail-value 5": "668",
     "detail-value 6": "264",
     "detail-value 7": 26,
-    "-hidden": "• Gentle"
+    "-hidden": "• Gentle",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/kettlebell-cardio-and-strength-fast-paced-circuits-with-compound-moves",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/kettlebell-cardio-and-strength-fast-paced-circuits-with-compound-moves",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1119-kettlebell-cardio-and-strength-b325.jpg",
     "title": "Kettlebell Cardio and Strength",
     "subtitle": "Fast-Paced Circuits With Compound Moves",
@@ -599,10 +641,11 @@
     "detail-value 5": "485",
     "detail-value 6": "133",
     "detail-value 7": 57,
-    "-hidden": "• Intense"
+    "-hidden": "• Intense",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/pilates-for-the-arms-and-abs-build-foundational-strength-and-stability",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/pilates-for-the-arms-and-abs-build-foundational-strength-and-stability",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1127-pilates-for-the-arms-and-abs-966f.jpg",
     "title": "Pilates for the Arms and Abs",
     "subtitle": "Build Foundational Strength and Stability",
@@ -613,10 +656,11 @@
     "detail-value 5": "1,184",
     "detail-value 6": "300",
     "detail-value 7": 51,
-    "-hidden": "• Fun"
+    "-hidden": "• Fun",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-total-body-power-yoga-beginner-friendly-flow-to-build-strength-and-release-tension",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-total-body-power-yoga-beginner-friendly-flow-to-build-strength-and-release-tension",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1082-quick-total-body-power-yoga-a26d.jpg",
     "title": "Quick Total Body Power Yoga",
     "subtitle": "Beginner-Friendly Flow to Build Strength and Release Tension",
@@ -627,10 +671,11 @@
     "detail-value 5": "1,624",
     "detail-value 6": "672",
     "detail-value 7": 50,
-    "-hidden": "• Energizing"
+    "-hidden": "• Energizing",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-power-yoga-flow-build-strength-and-increase-hip-mobility",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-power-yoga-flow-build-strength-and-increase-hip-mobility",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1115-lower-body-power-yoga-flow-a701.jpg",
     "title": "Power Yoga for the Quads, Glutes, and Hips",
     "subtitle": "Build Strength and Increase Joint Mobility",
@@ -641,10 +686,11 @@
     "detail-value 5": "430",
     "detail-value 6": "159",
     "detail-value 7": 20,
-    "-hidden": "• Challenging"
+    "-hidden": "• Challenging",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/mellow-beginner-cardio-for-days-when-you-don-t-wanna-round-2",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/mellow-beginner-cardio-for-days-when-you-don-t-wanna-round-2",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1097-mellow-beginner-cardio-8f65.jpg",
     "title": "Mellow Beginner Cardio",
     "subtitle": "For Days When You Don’t Wanna - Round 2",
@@ -655,10 +701,11 @@
     "detail-value 5": "1,576",
     "detail-value 6": "429",
     "detail-value 7": 72,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-pilates-and-barre-hips-glutes-and-core-burnout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-pilates-and-barre-hips-glutes-and-core-burnout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1124-lower-body-pilates-and-barre-bd6c.jpg",
     "title": "Lower Body Pilates and Barre",
     "subtitle": "Hips, Glutes, and Core Burnout",
@@ -669,10 +716,11 @@
     "detail-value 5": "1,617",
     "detail-value 6": "358",
     "detail-value 7": 78,
-    "-hidden": "• Sweaty"
+    "-hidden": "• Sweaty",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/unconventional-upper-body-and-core-descending-strength-intervals-with-cardio",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/unconventional-upper-body-and-core-descending-strength-intervals-with-cardio",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1102-30-min-unconventional-upper-body-and-core-strength-and-cardio-workout-ad0d.jpg",
     "title": "Unconventional Upper Body and Core",
     "subtitle": "Descending Strength Intervals With Cardio",
@@ -683,10 +731,11 @@
     "detail-value 5": "448",
     "detail-value 6": "121",
     "detail-value 7": 29,
-    "-hidden": "• Challenging"
+    "-hidden": "• Challenging",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/stretch-break-for-desk-jobs-10-minute-posture-reset",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/stretch-break-for-desk-jobs-10-minute-posture-reset",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1107-stretch-break-for-desk-jobs-a121.jpg",
     "title": "Stretch Break for Desk Jobs",
     "subtitle": "10-Minute Posture Reset",
@@ -697,10 +746,11 @@
     "detail-value 5": "396",
     "detail-value 6": "192",
     "detail-value 7": 23,
-    "-hidden": "• Restorative"
+    "-hidden": "• Restorative",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/resistance-band-strength-total-body-workout-for-home-or-travel",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/resistance-band-strength-total-body-workout-for-home-or-travel",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1122-resistance-band-strength-a915.jpg",
     "title": "Resistance Band Strength",
     "subtitle": "Total Body Workout for Home or Travel",
@@ -711,10 +761,11 @@
     "detail-value 5": "366",
     "detail-value 6": "149",
     "detail-value 7": 32,
-    "-hidden": "• Smart"
+    "-hidden": "• Smart",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/endurance-strength-training-long-circuit-with-combination-moves",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/endurance-strength-training-long-circuit-with-combination-moves",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1095-endurance-strength-training-af3b.jpg",
     "title": "Endurance Strength Training",
     "subtitle": "Long Circuit With Combination Moves",
@@ -725,10 +776,11 @@
     "detail-value 5": "1,219",
     "detail-value 6": "377",
     "detail-value 7": 58,
-    "-hidden": "• Challenging"
+    "-hidden": "• Challenging",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-with-hiit-finisher-weights-with-cardio-emoms",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-with-hiit-finisher-weights-with-cardio-emoms",
     "image": "",
     "title": "Lower Body Strength With HIIT Finisher",
     "subtitle": "Weights With Cardio EMOMs",
@@ -739,10 +791,11 @@
     "detail-value 5": "2,350",
     "detail-value 6": "717",
     "detail-value 7": 57,
-    "-hidden": "• Spicy"
+    "-hidden": "• Spicy",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/kickboxing-warm-up-5-minutes-of-total-body-boxing-moves",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/kickboxing-warm-up-5-minutes-of-total-body-boxing-moves",
     "image": "",
     "title": "Kickboxing Warm-Up",
     "subtitle": "5-Minutes of Total Body Boxing Moves",
@@ -753,10 +806,11 @@
     "detail-value 5": "481",
     "detail-value 6": "106",
     "detail-value 7": 14,
-    "-hidden": "• Energizing"
+    "-hidden": "• Energizing",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/back-to-basics-strength-fundamental-exercises-for-the-upper-and-lower-body",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/back-to-basics-strength-fundamental-exercises-for-the-upper-and-lower-body",
     "image": "",
     "title": "Back to Basics Strength",
     "subtitle": "Fundamental Exercises for the Upper and Lower Body",
@@ -767,10 +821,11 @@
     "detail-value 5": "1,068",
     "detail-value 6": "349",
     "detail-value 7": 42,
-    "-hidden": "• Empowering, Smart"
+    "-hidden": "• Empowering, Smart",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/no-equipment-lower-body-strength-with-no-impact-multiplanar-moves",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/no-equipment-lower-body-strength-with-no-impact-multiplanar-moves",
     "image": "",
     "title": "No-Equipment Lower Body Strength",
     "subtitle": "With No-Impact Multiplanar Moves",
@@ -781,10 +836,11 @@
     "detail-value 5": "987",
     "detail-value 6": "315",
     "detail-value 7": 46,
-    "-hidden": "• Energizing"
+    "-hidden": "• Energizing",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/descending-intervals-hiit-with-tabata-cardio-and-core-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/descending-intervals-hiit-with-tabata-cardio-and-core-finisher",
     "image": "",
     "title": "Descending Intervals HIIT",
     "subtitle": "With Tabata Cardio and Core Finisher",
@@ -795,10 +851,11 @@
     "detail-value 5": "1,268",
     "detail-value 6": "296",
     "detail-value 7": 62,
-    "-hidden": "• Fiery"
+    "-hidden": "• Fiery",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/restorative-pilates-exercises-and-stretches-for-strength-and-relaxation",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/restorative-pilates-exercises-and-stretches-for-strength-and-relaxation",
     "image": "",
     "title": "Restorative Pilates",
     "subtitle": "Exercises and Stretches for Strength and Relaxation",
@@ -809,10 +866,11 @@
     "detail-value 5": "1,244",
     "detail-value 6": "265",
     "detail-value 7": 41,
-    "-hidden": "• Restorative"
+    "-hidden": "• Restorative",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/calf-and-ankle-exercises-improve-stability-strength-and-balance",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/calf-and-ankle-exercises-improve-stability-strength-and-balance",
     "image": "",
     "title": "Calf and Ankle Exercises",
     "subtitle": "Improve Stability, Strength, and Balance",
@@ -823,10 +881,11 @@
     "detail-value 5": "486",
     "detail-value 6": "222",
     "detail-value 7": 34,
-    "-hidden": "• Smart"
+    "-hidden": "• Smart",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/low-impact-bodyweight-hiit-remove-one-ladder-style",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/low-impact-bodyweight-hiit-remove-one-ladder-style",
     "image": "",
     "title": "Low Impact Bodyweight HIIT",
     "subtitle": "Remove-One Ladder Style",
@@ -837,10 +896,11 @@
     "detail-value 5": "1,175",
     "detail-value 6": "388",
     "detail-value 7": 70,
-    "-hidden": "• Sweaty"
+    "-hidden": "• Sweaty",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bodyweight-upper-body-and-core-slow-tempo-strength-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bodyweight-upper-body-and-core-slow-tempo-strength-circuits",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1093-bodyweight-upper-body-and-core-855a.jpg",
     "title": "Bodyweight Upper Body and Core",
     "subtitle": "Slow-Tempo Strength Circuits",
@@ -851,10 +911,11 @@
     "detail-value 5": "1,685",
     "detail-value 6": "311",
     "detail-value 7": 62,
-    "-hidden": "• Energizing"
+    "-hidden": "• Energizing",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/core-activation-and-stability-exercises-for-the-abs-back-and-pelvic-floor",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/core-activation-and-stability-exercises-for-the-abs-back-and-pelvic-floor",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1104-core-activation-and-stability-8b28.jpg",
     "title": "Core Activation and Stability",
     "subtitle": "Exercises for the Abs, Back, and Pelvic Floor",
@@ -865,10 +926,11 @@
     "detail-value 5": "1,009",
     "detail-value 6": "240",
     "detail-value 7": 53,
-    "-hidden": "• Smart"
+    "-hidden": "• Smart",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-strength-with-hiit-intermissions-ladder-circuits-for-endurance",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-strength-with-hiit-intermissions-ladder-circuits-for-endurance",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1086-upper-body-strength-with-hiit-intermissions-9cd1.jpg",
     "title": "Upper Body Strength with HIIT Intermissions",
     "subtitle": "Ladder Circuits for Endurance",
@@ -879,10 +941,11 @@
     "detail-value 5": "1,465",
     "detail-value 6": "397",
     "detail-value 7": 75,
-    "-hidden": "• Challenging"
+    "-hidden": "• Challenging",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-with-cardio-bursts-supersets-with-intense-cardio-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-with-cardio-bursts-supersets-with-intense-cardio-intervals",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1099-lower-body-strength-with-cardio-bursts-ac27.jpg",
     "title": "Lower Body Strength with Cardio Bursts",
     "subtitle": "Supersets with Intense Cardio Intervals",
@@ -893,10 +956,11 @@
     "detail-value 5": "2,650",
     "detail-value 6": "690",
     "detail-value 7": 97,
-    "-hidden": "• Sweaty"
+    "-hidden": "• Sweaty",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/low-impact-cardio-and-core-bored-easily-format-with-no-repeated-exercises",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/low-impact-cardio-and-core-bored-easily-format-with-no-repeated-exercises",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1118-low-impact-cardio-and-core-a87d.jpg",
     "title": "Low Impact Cardio and Core",
     "subtitle": "Bored-Easily Format With No Repeated Exercises",
@@ -907,10 +971,11 @@
     "detail-value 5": "3,700",
     "detail-value 6": "1,483",
     "detail-value 7": 162,
-    "-hidden": "• Sweaty"
+    "-hidden": "• Sweaty",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/foundational-power-yoga-beginner-friendly-strength-balance-and-technique",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/foundational-power-yoga-beginner-friendly-strength-balance-and-technique",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1114-foundational-power-yoga-b6ff.jpg",
     "title": "Foundational Power Yoga",
     "subtitle": "Beginner-Friendly Strength, Balance, and Technique",
@@ -921,10 +986,11 @@
     "detail-value 5": "419",
     "detail-value 6": "183",
     "detail-value 7": 14,
-    "-hidden": "• Empowering"
+    "-hidden": "• Empowering",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/moderate-intensity-cardio-friendly-for-exercise-induced-anxiety",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/moderate-intensity-cardio-friendly-for-exercise-induced-anxiety",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1073-moderate-intensity-cardio-a341.jpg",
     "title": "Moderate Intensity Cardio",
     "subtitle": "Friendly for Exercise-Induced Anxiety",
@@ -935,10 +1001,11 @@
     "detail-value 5": "733",
     "detail-value 6": "296",
     "detail-value 7": 68,
-    "-hidden": "• Empowering"
+    "-hidden": "• Empowering",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/pure-tabata-circuits-8-rounds-of-bodyweight-hiit",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/pure-tabata-circuits-8-rounds-of-bodyweight-hiit",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1096-pure-tabata-circuits-8f0b.jpg",
     "title": "Pure Tabata Circuits",
     "subtitle": "8 Rounds of Bodyweight HIIT",
@@ -949,10 +1016,11 @@
     "detail-value 5": "796",
     "detail-value 6": "243",
     "detail-value 7": 62,
-    "-hidden": "• Sweaty"
+    "-hidden": "• Sweaty",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/single-dumbbell-complex-fast-paced-strength-and-cardio",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/single-dumbbell-complex-fast-paced-strength-and-cardio",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1090-single-dumbbell-complex-9978.jpg",
     "title": "Single Dumbbell Complex",
     "subtitle": "Fast-Paced Strength and Cardio",
@@ -963,10 +1031,11 @@
     "detail-value 5": "808",
     "detail-value 6": "285",
     "detail-value 7": 41,
-    "-hidden": "• Empowering"
+    "-hidden": "• Empowering",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/yoga-for-stress-reduction-beginner-friendly-poses-and-gentle-stretches",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/yoga-for-stress-reduction-beginner-friendly-poses-and-gentle-stretches",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1081-yoga-for-stress-reduction-bf4e.jpg",
     "title": "Yoga for Stress-Reduction",
     "subtitle": "Beginner-Friendly Poses and Gentle Stretches",
@@ -977,10 +1046,11 @@
     "detail-value 5": "500",
     "detail-value 6": "187",
     "detail-value 7": 30,
-    "-hidden": "• Calming"
+    "-hidden": "• Calming",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/deep-core-strength-and-stability-pregnancy-friendly-anti-rotation-exercises",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/deep-core-strength-and-stability-pregnancy-friendly-anti-rotation-exercises",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1100-deep-core-strength-and-stability-b2cb.jpg",
     "title": "Deep Core Strength and Stability",
     "subtitle": "Pregnancy-Friendly Anti-Rotation Exercises",
@@ -991,10 +1061,11 @@
     "detail-value 5": "504",
     "detail-value 6": "222",
     "detail-value 7": 33,
-    "-hidden": "• Gentle"
+    "-hidden": "• Gentle",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-strength-and-lower-body-cardio-total-body-pairs",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-strength-and-lower-body-cardio-total-body-pairs",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1080-upper-body-strength-and-lower-body-cardio-ae43.jpg",
     "title": "Upper Body Strength and Lower Body Cardio",
     "subtitle": "Total Body Pairs",
@@ -1005,10 +1076,11 @@
     "detail-value 5": "1,758",
     "detail-value 6": "564",
     "detail-value 7": 79,
-    "-hidden": "• Fun"
+    "-hidden": "• Fun",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/cardio-strength-and-core-combo-quick-total-body-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/cardio-strength-and-core-combo-quick-total-body-workout",
     "image": "",
     "title": "Cardio, Strength, and Core Combo",
     "subtitle": "Quick Total Body Workout",
@@ -1019,10 +1091,11 @@
     "detail-value 5": "4,031",
     "detail-value 6": "1,397",
     "detail-value 7": 105,
-    "-hidden": "• Intense"
+    "-hidden": "• Intense",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/active-recovery-yoga-flow-beginner-vinyasa-to-stretch-and-strengthen",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/active-recovery-yoga-flow-beginner-vinyasa-to-stretch-and-strengthen",
     "image": "",
     "title": "Active Recovery Yoga Flow",
     "subtitle": "Beginner Vinyasa to Stretch and Strengthen",
@@ -1033,10 +1106,11 @@
     "detail-value 5": "560",
     "detail-value 6": "204",
     "detail-value 7": 24,
-    "-hidden": "• Empowering"
+    "-hidden": "• Empowering",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/no-equipment-cardio-add-on-intervals-for-endurance",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/no-equipment-cardio-add-on-intervals-for-endurance",
     "image": "",
     "title": "No-Equipment Cardio",
     "subtitle": "Add-On Intervals for Endurance",
@@ -1047,10 +1121,11 @@
     "detail-value 5": "426",
     "detail-value 6": "147",
     "detail-value 7": 44,
-    "-hidden": "• Sweaty"
+    "-hidden": "• Sweaty",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/low-impact-hiit-flexible-length-at-15-25-or-35-minutes",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/low-impact-hiit-flexible-length-at-15-25-or-35-minutes",
     "image": "",
     "title": "Low-Impact HIIT",
     "subtitle": "Flexible Length at 15, 25, or 35 Minutes",
@@ -1061,10 +1136,11 @@
     "detail-value 5": "1,207",
     "detail-value 6": "476",
     "detail-value 7": 89,
-    "-hidden": "• Intense"
+    "-hidden": "• Intense",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/express-strength-and-power-circuit-total-body-amrap-with-core-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/express-strength-and-power-circuit-total-body-amrap-with-core-finisher",
     "image": "",
     "title": "Express Strength and Power Circuit",
     "subtitle": "Total Body AMRAP with Core Finisher",
@@ -1075,10 +1151,11 @@
     "detail-value 5": "709",
     "detail-value 6": "202",
     "detail-value 7": 33,
-    "-hidden": "• Intense"
+    "-hidden": "• Intense",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-full-body-pilates-stability-and-strength-add-on",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-full-body-pilates-stability-and-strength-add-on",
     "image": "",
     "title": "Quick Full-Body Pilates",
     "subtitle": "Stability and Strength Add-On",
@@ -1089,10 +1166,11 @@
     "detail-value 5": "1,462",
     "detail-value 6": "309",
     "detail-value 7": 68,
-    "-hidden": "• Feel-Good"
+    "-hidden": "• Feel-Good",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/deep-hip-stability-and-strength-workout-activate-the-piriformis-muscle",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/deep-hip-stability-and-strength-workout-activate-the-piriformis-muscle",
     "image": "",
     "title": "Deep Hip Stability and Strength Workout",
     "subtitle": "Activate the Piriformis Muscle",
@@ -1103,10 +1181,11 @@
     "detail-value 5": "612",
     "detail-value 6": "333",
     "detail-value 7": 43,
-    "-hidden": "• Restorative"
+    "-hidden": "• Restorative",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-kettlebell-workout-build-strength-and-core-stability",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-kettlebell-workout-build-strength-and-core-stability",
     "image": "",
     "title": "Upper Body Kettlebell Workout",
     "subtitle": "Build Strength and Core Stability",
@@ -1117,10 +1196,11 @@
     "detail-value 5": "851",
     "detail-value 6": "248",
     "detail-value 7": 30,
-    "-hidden": "• Empowering"
+    "-hidden": "• Empowering",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bodyweight-hiit-circuits-total-body-cardio-with-descending-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bodyweight-hiit-circuits-total-body-cardio-with-descending-intervals",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1085-bodyweight-hiit-circuits-803e.jpg",
     "title": "Bodyweight HIIT Circuits",
     "subtitle": "Total Body Cardio with Descending Intervals – Part II",
@@ -1131,10 +1211,11 @@
     "detail-value 5": "1,410",
     "detail-value 6": "443",
     "detail-value 7": 68,
-    "-hidden": "• Sweaty"
+    "-hidden": "• Sweaty",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/active-stretch-flow-for-hips-core-and-lower-body-gentle-stretches-for-stress-relief",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/active-stretch-flow-for-hips-core-and-lower-body-gentle-stretches-for-stress-relief",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1066-active-stretch-flow-for-hips-core-and-lower-body-b922.jpg",
     "title": "Active Stretch Flow for Hips, Core, and Lower Body",
     "subtitle": "Gentle Stretches for Stress Relief",
@@ -1145,10 +1226,11 @@
     "detail-value 5": "3,561",
     "detail-value 6": "1,428",
     "detail-value 7": 113,
-    "-hidden": "• Feel-Good"
+    "-hidden": "• Feel-Good",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/express-upper-body-resistance-band-burnout-16-minute-add-on-to-challenge-the-arms",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/express-upper-body-resistance-band-burnout-16-minute-add-on-to-challenge-the-arms",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1088-express-upper-body-resistance-band-burnout-a182.jpg",
     "title": "Express Upper Body Resistance Band Burnout",
     "subtitle": "16-Minute Add-On to Challenge the Arms",
@@ -1159,10 +1241,11 @@
     "detail-value 5": "942",
     "detail-value 6": "276",
     "detail-value 7": 56,
-    "-hidden": "• Spicy"
+    "-hidden": "• Spicy",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/power-yoga-flow-with-back-bends-poses-to-release-shoulder-and-chest-tension",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/power-yoga-flow-with-back-bends-poses-to-release-shoulder-and-chest-tension",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1032-power-yoga-flow-with-back-bends-9603.jpg",
     "title": "Power Yoga Flow with Back Bends",
     "subtitle": "Poses to Release Shoulder and Chest Tension",
@@ -1173,10 +1256,11 @@
     "detail-value 5": "210",
     "detail-value 6": "83",
     "detail-value 7": 13,
-    "-hidden": "• Empowering"
+    "-hidden": "• Empowering",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/knee-friendly-strength-workout-with-bands-and-weights-lower-body-pure-strength",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/knee-friendly-strength-workout-with-bands-and-weights-lower-body-pure-strength",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1070-lower-body-pure-strength-with-bands-and-weights-a987.jpg",
     "title": "Knee-Friendly Strength Workout with Bands and Weights",
     "subtitle": "Lower Body Pure Strength",
@@ -1187,10 +1271,11 @@
     "detail-value 5": "591",
     "detail-value 6": "255",
     "detail-value 7": 43,
-    "-hidden": "• Gentle"
+    "-hidden": "• Gentle",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/mobility-routine-for-active-recovery-days-total-body-restorative-stretching",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/mobility-routine-for-active-recovery-days-total-body-restorative-stretching",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1077-mobility-routine-for-active-recovery-days-9cd9.jpg",
     "title": "Mobility Routine for Active Recovery Days",
     "subtitle": "Total Body Restorative Stretching",
@@ -1201,10 +1286,11 @@
     "detail-value 5": "1,248",
     "detail-value 6": "381",
     "detail-value 7": 50,
-    "-hidden": "• Restorative"
+    "-hidden": "• Restorative",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/straightforward-strength-circuits-with-power-intervals-upper-and-lower-body-split",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/straightforward-strength-circuits-with-power-intervals-upper-and-lower-body-split",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1078-straightforward-strength-circuits-with-power-intervals-8e5c.jpg",
     "title": "Straightforward Strength Circuits with Power Intervals",
     "subtitle": "Upper and Lower Body Split",
@@ -1215,10 +1301,11 @@
     "detail-value 5": "1,140",
     "detail-value 6": "436",
     "detail-value 7": 117,
-    "-hidden": "• Brutal"
+    "-hidden": "• Brutal",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/fiery-15-minute-total-body-power-yoga-intermediate-to-advanced-yoga-flow-with-optional-savasana",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/fiery-15-minute-total-body-power-yoga-intermediate-to-advanced-yoga-flow-with-optional-savasana",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1072-fiery-15-minute-total-body-power-yoga-93b0.jpg",
     "title": "Fiery 15-Minute Total Body Power Yoga",
     "subtitle": "Intermediate to Advanced Yoga Flow with Optional Savasana",
@@ -1229,10 +1316,11 @@
     "detail-value 5": "383",
     "detail-value 6": "142",
     "detail-value 7": 21,
-    "-hidden": "• Sweaty"
+    "-hidden": "• Sweaty",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/hip-stretches-for-travelers-stretching-routine-for-tight-hips",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/hip-stretches-for-travelers-stretching-routine-for-tight-hips",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1087-hip-stretches-for-travelers-bacc.jpg",
     "title": "Hip Stretches for Travelers",
     "subtitle": "Stretching Routine for Tight Hips",
@@ -1243,10 +1331,11 @@
     "detail-value 5": "801",
     "detail-value 6": "317",
     "detail-value 7": 39,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/core-strength-circuits-with-sliding-discs-instability-workout-for-abdominals-hip-flexors-and-lower",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/core-strength-circuits-with-sliding-discs-instability-workout-for-abdominals-hip-flexors-and-lower",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1057-core-strength-circuits-with-sliding-discs-b32f.jpg",
     "title": "Core Strength Circuits with Sliding Discs",
     "subtitle": "Instability Workout for Abdominals, Hip Flexors, and Lower Back Muscles",
@@ -1257,10 +1346,11 @@
     "detail-value 5": "480",
     "detail-value 6": "155",
     "detail-value 7": 49,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/cardio-kickboxing-and-lower-body-strength-combo",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/cardio-kickboxing-and-lower-body-strength-combo",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1067-cardio-kickboxing-and-lower-body-strength-combo-b08a.jpg",
     "title": "Cardio Kickboxing and Lower Body Strength Combo",
     "subtitle": "",
@@ -1271,10 +1361,11 @@
     "detail-value 5": "1,560",
     "detail-value 6": "447",
     "detail-value 7": 74,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-strength-supersets-with-cardio-interval-burnouts",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-strength-supersets-with-cardio-interval-burnouts",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1068-upper-body-strength-supersets-with-cardio-interval-burnouts-8001.jpg",
     "title": "Upper Body Strength Supersets with Cardio Interval Burnouts",
     "subtitle": "",
@@ -1285,10 +1376,11 @@
     "detail-value 5": "4,721",
     "detail-value 6": "1,450",
     "detail-value 7": 124,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/6-minute-dynamic-warm-up-to-energize-and-activate",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/6-minute-dynamic-warm-up-to-energize-and-activate",
     "image": "",
     "title": "6-Minute Dynamic Warm-Up to Energize and Activate",
     "subtitle": "",
@@ -1299,10 +1391,11 @@
     "detail-value 5": "1,748",
     "detail-value 6": "314",
     "detail-value 7": 16,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/unconventional-total-body-morning-mobility-13-minute-get-up-and-go-stretches",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/unconventional-total-body-morning-mobility-13-minute-get-up-and-go-stretches",
     "image": "",
     "title": "Unconventional Total Body Morning Mobility",
     "subtitle": "13-Minute Get Up and Go Stretches",
@@ -1313,10 +1406,11 @@
     "detail-value 5": "1,036",
     "detail-value 6": "275",
     "detail-value 7": 42,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/power-yoga-deep-core-target-work-intermediate-advanced-power-flow-for-intermediate-advanced",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/power-yoga-deep-core-target-work-intermediate-advanced-power-flow-for-intermediate-advanced",
     "image": "",
     "title": "Power Yoga: Deep Core Target Work",
     "subtitle": "Intermediate/Advanced Power Flow For Intermediate/Advanced Practitioners",
@@ -1327,10 +1421,11 @@
     "detail-value 5": "580",
     "detail-value 6": "187",
     "detail-value 7": 29,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/remove-one-style-lower-body-interval-training-circuits-low-impact-bodyweight-cardio-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/remove-one-style-lower-body-interval-training-circuits-low-impact-bodyweight-cardio-workout",
     "image": "",
     "title": "Remove-One Style Lower Body Interval Training Circuits",
     "subtitle": "Low Impact Bodyweight Cardio Workout",
@@ -1341,10 +1436,11 @@
     "detail-value 5": "1,082",
     "detail-value 6": "402",
     "detail-value 7": 90,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/vinyasa-yoga-modifications-for-deep-core-work-intermediate-flow-for-intermediate-advanced",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/vinyasa-yoga-modifications-for-deep-core-work-intermediate-flow-for-intermediate-advanced",
     "image": "",
     "title": "Vinyasa Yoga: Modifications For Deep Core Work",
     "subtitle": "Intermediate Flow for Intermediate/Advanced Practitioners",
@@ -1355,10 +1451,11 @@
     "detail-value 5": "251",
     "detail-value 6": "117",
     "detail-value 7": 14,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-stretches-with-foam-rolling-intermission",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-stretches-with-foam-rolling-intermission",
     "image": "",
     "title": "Upper Body Stretches with Foam Rolling Intermission",
     "subtitle": "",
@@ -1369,10 +1466,11 @@
     "detail-value 5": "442",
     "detail-value 6": "166",
     "detail-value 7": 32,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/low-impact-lower-body-workout-for-glute-strength-and-pelvic-stability",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/low-impact-lower-body-workout-for-glute-strength-and-pelvic-stability",
     "image": "",
     "title": "Low-Impact Lower Body Workout for Glute Strength and Pelvic Stability",
     "subtitle": "",
@@ -1383,10 +1481,11 @@
     "detail-value 5": "657",
     "detail-value 6": "345",
     "detail-value 7": 41,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/3-set-upper-body-strength-workout-with-burnout-round-mid-rep-rotations-low-reps-and-negatives",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/3-set-upper-body-strength-workout-with-burnout-round-mid-rep-rotations-low-reps-and-negatives",
     "image": "",
     "title": "3 Set Upper Body Strength Workout with Burnout Round",
     "subtitle": "Mid-Rep Rotations, Low Reps, and Negatives",
@@ -1397,10 +1496,11 @@
     "detail-value 5": "2,793",
     "detail-value 6": "822",
     "detail-value 7": 125,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-bodyweight-hiit-with-active-recovery-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-bodyweight-hiit-with-active-recovery-intervals",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1063-quick-bodyweight-hiit-with-active-recovery-intervals-96b6.jpg",
     "title": "Quick Bodyweight HIIT with Active Recovery Intervals",
     "subtitle": "",
@@ -1411,10 +1511,11 @@
     "detail-value 5": "3,134",
     "detail-value 6": "1,246",
     "detail-value 7": 137,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/postpartum-core-and-pelvic-floor-recovery-series-level-3",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/postpartum-core-and-pelvic-floor-recovery-series-level-3",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1025-postpartum-core-and-pelvic-floor-recovery-series-level-3-a590.jpg",
     "title": "Postpartum Core and Pelvic Floor Recovery Series - Level 3",
     "subtitle": "",
@@ -1425,10 +1526,11 @@
     "detail-value 5": "140",
     "detail-value 6": "142",
     "detail-value 7": 7,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/long-stretch-for-sore-arms-upper-body-recovery-stretch",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/long-stretch-for-sore-arms-upper-body-recovery-stretch",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1036-long-stretch-for-sore-arms-a9db.jpg",
     "title": "Long Stretch for Sore Arms",
     "subtitle": "Upper Body Recovery Stretch",
@@ -1439,10 +1541,11 @@
     "detail-value 5": "334",
     "detail-value 6": "141",
     "detail-value 7": 16,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/standing-room-only-bodyweight-workout-for-small-spaces",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/standing-room-only-bodyweight-workout-for-small-spaces",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1061-standing-room-only-bodyweight-workout-for-small-spaces-af61.jpg",
     "title": "“Standing Room Only”: Bodyweight Workout for Small Spaces",
     "subtitle": "",
@@ -1453,10 +1556,11 @@
     "detail-value 5": "541",
     "detail-value 6": "242",
     "detail-value 7": 27,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-lower-body-yoga-burnout-for-quads-and-ankles",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-lower-body-yoga-burnout-for-quads-and-ankles",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1028-quick-lower-body-yoga-burnout-for-quads-and-ankles-9f02.jpg",
     "title": "Quick Lower Body Yoga Burnout for Quads and Ankles",
     "subtitle": "",
@@ -1467,10 +1571,11 @@
     "detail-value 5": "261",
     "detail-value 6": "119",
     "detail-value 7": 12,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-strength-circuit-with-bear-crawl-core-intermissions",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-strength-circuit-with-bear-crawl-core-intermissions",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1009-upper-body-strength-circuit-with-bear-crawl-core-intermissions-b17e.jpg",
     "title": "Upper Body Strength Circuit with Bear Crawl Core Intermissions",
     "subtitle": "",
@@ -1481,10 +1586,11 @@
     "detail-value 5": "1,284",
     "detail-value 6": "298",
     "detail-value 7": 38,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/gentle-yoga-flow-low-back-pain-release",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/gentle-yoga-flow-low-back-pain-release",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1056-gentle-yoga-flow-low-back-pain-release-b4f5.jpg",
     "title": "Gentle Yoga Flow for Low-Back Pain Release",
     "subtitle": "",
@@ -1495,10 +1601,11 @@
     "detail-value 5": "674",
     "detail-value 6": "304",
     "detail-value 7": 24,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/12-minute-core-for-runners-improving-rotational-control",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/12-minute-core-for-runners-improving-rotational-control",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1074-12-minute-core-for-runners-improving-rotational-control-9c4a.jpg",
     "title": "12-Minute Core for Runners: Improving Rotational Control",
     "subtitle": "",
@@ -1509,10 +1616,11 @@
     "detail-value 5": "1,372",
     "detail-value 6": "267",
     "detail-value 7": 70,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/20-20-20-stacked-cardio-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/20-20-20-stacked-cardio-intervals",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1034-20-20-20-stacked-cardio-intervals-a2f8.jpg",
     "title": "20-20-20 Stacked Cardio Intervals",
     "subtitle": "",
@@ -1523,10 +1631,11 @@
     "detail-value 5": "1,595",
     "detail-value 6": "558",
     "detail-value 7": 123,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-supersets-with-bodyweight-core-intermissions",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-supersets-with-bodyweight-core-intermissions",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-994-upper-body-supersets-with-bodyweight-core-intermissions-bc99.jpg",
     "title": "Upper Body Supersets with Bodyweight Core Intermissions",
     "subtitle": "",
@@ -1537,10 +1646,11 @@
     "detail-value 5": "1,865",
     "detail-value 6": "511",
     "detail-value 7": 110,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/gentle-yoga-total-body-restorative-flow",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/gentle-yoga-total-body-restorative-flow",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1065-gentle-yoga-total-body-restorative-flow-9e15.jpg",
     "title": "Gentle Yoga: Total Body Restorative Flow",
     "subtitle": "",
@@ -1551,10 +1661,11 @@
     "detail-value 5": "2,244",
     "detail-value 6": "1,092",
     "detail-value 7": 100,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/vinyasa-yoga-flow-for-tuning-into-your-breath-ujjayi-breath-tutorial",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/vinyasa-yoga-flow-for-tuning-into-your-breath-ujjayi-breath-tutorial",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1060-vinyasa-yoga-break-down-of-ujjayi-breath-8e7d.jpg",
     "title": "Vinyasa Yoga Flow for Tuning Into Your Breath + Ujjayi Breath Tutorial",
     "subtitle": "",
@@ -1565,10 +1676,11 @@
     "detail-value 5": "457",
     "detail-value 6": "114",
     "detail-value 7": 14,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bodyweight-balance-workout-to-improve-proprioception-and-coordination",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bodyweight-balance-workout-to-improve-proprioception-and-coordination",
     "image": "",
     "title": "Bodyweight Balance Workout to Improve Proprioception and Coordination",
     "subtitle": "",
@@ -1579,10 +1691,11 @@
     "detail-value 5": "1,329",
     "detail-value 6": "527",
     "detail-value 7": 96,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-weighted-strength-circuit-with-push-ups-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-weighted-strength-circuit-with-push-ups-finisher",
     "image": "",
     "title": "Total Body Weighted Strength Circuit with Push-Ups Finisher",
     "subtitle": "",
@@ -1593,10 +1706,11 @@
     "detail-value 5": "1,242",
     "detail-value 6": "463",
     "detail-value 7": 83,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/kettlebell-swing-boot-camp-guided-kettlebell-swing-tutorial",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/kettlebell-swing-boot-camp-guided-kettlebell-swing-tutorial",
     "image": "",
     "title": "Kettlebell Swing Boot Camp + Guided Kettlebell Swing Tutorial",
     "subtitle": "",
@@ -1607,10 +1721,11 @@
     "detail-value 5": "309",
     "detail-value 6": "122",
     "detail-value 7": 29,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/no-equipment-upper-body-strength-descending-ladder-with-cardio-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/no-equipment-upper-body-strength-descending-ladder-with-cardio-intervals",
     "image": "",
     "title": "No-Equipment Upper Body Strength Descending Ladder with Cardio Intervals",
     "subtitle": "",
@@ -1621,10 +1736,11 @@
     "detail-value 5": "2,447",
     "detail-value 6": "1,072",
     "detail-value 7": 77,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/pre-and-postnatal-upper-body-strength-with-low-impact-cardio-intermissions",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/pre-and-postnatal-upper-body-strength-with-low-impact-cardio-intermissions",
     "image": "",
     "title": "Pre- and Postnatal Upper Body Strength with Low-Impact Cardio Intermissions",
     "subtitle": "",
@@ -1635,10 +1751,11 @@
     "detail-value 5": "572",
     "detail-value 6": "232",
     "detail-value 7": 46,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/power-yoga-flow-for-hip-strength-and-release",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/power-yoga-flow-for-hip-strength-and-release",
     "image": "",
     "title": "Power Yoga Flow for Hip Strength and Release",
     "subtitle": "",
@@ -1649,10 +1766,11 @@
     "detail-value 5": "730",
     "detail-value 6": "197",
     "detail-value 7": 42,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-10-minute-jump-rope-cardio-add-on-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-10-minute-jump-rope-cardio-add-on-workout",
     "image": "",
     "title": "Quick 10-Minute Jump Rope Cardio Add-On Workout",
     "subtitle": "",
@@ -1663,10 +1781,11 @@
     "detail-value 5": "366",
     "detail-value 6": "104",
     "detail-value 7": 15,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-ladder-strength-circuits-with-cardio-tabata-intermissions",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-ladder-strength-circuits-with-cardio-tabata-intermissions",
     "image": "",
     "title": "Lower Body Ladder Strength Circuits with Cardio Tabata Intermissions",
     "subtitle": "",
@@ -1677,10 +1796,11 @@
     "detail-value 5": "1,412",
     "detail-value 6": "435",
     "detail-value 7": 192,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/postpartum-core-and-pelvic-floor-recovery-series-level-2",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/postpartum-core-and-pelvic-floor-recovery-series-level-2",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1024-postpartum-core-and-pelvic-floor-recovery-series-level-2-a5b7.jpg",
     "title": "Postpartum Core and Pelvic Floor Recovery Series - Level 2",
     "subtitle": "",
@@ -1691,10 +1811,11 @@
     "detail-value 5": "223",
     "detail-value 6": "186",
     "detail-value 7": 19,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/vinyasa-yoga-stretch-flow-with-breath-of-fire",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/vinyasa-yoga-stretch-flow-with-breath-of-fire",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1048-vinyasa-yoga-stretch-flow-with-breath-of-fire-a926.jpg",
     "title": "Vinyasa Yoga: Stretch + Flow With Breath Of Fire",
     "subtitle": "",
@@ -1705,10 +1826,11 @@
     "detail-value 5": "303",
     "detail-value 6": "138",
     "detail-value 7": 18,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/360-degree-glute-activation-workout-with-bands-and-dumbbells",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/360-degree-glute-activation-workout-with-bands-and-dumbbells",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1049-360-degree-glute-activation-workout-with-bands-and-dumbbells-9a13.jpg",
     "title": "360 Degree Glute Activation Workout with Bands and Dumbbells",
     "subtitle": "",
@@ -1719,10 +1841,11 @@
     "detail-value 5": "1,699",
     "detail-value 6": "454",
     "detail-value 7": 64,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-upper-body-and-core-bodyweight-amrap-with-emom-burnout-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-upper-body-and-core-bodyweight-amrap-with-emom-burnout-finisher",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-981-quick-upper-body-and-core-bodyweight-amrap-with-emom-burnout-finisher-bab2.jpg",
     "title": "Quick Upper Body and Core Bodyweight AMRAP with EMOM Burnout Finisher",
     "subtitle": "",
@@ -1733,10 +1856,11 @@
     "detail-value 5": "949",
     "detail-value 6": "263",
     "detail-value 7": 33,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-strength-and-cardio-pyramid-challenge",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-strength-and-cardio-pyramid-challenge",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1055-total-body-strength-and-cardio-pyramid-challenge-8d8c.jpg",
     "title": "Total Body Strength and Cardio Pyramid Challenge",
     "subtitle": "",
@@ -1747,10 +1871,11 @@
     "detail-value 5": "1,394",
     "detail-value 6": "583",
     "detail-value 7": 102,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/postpartum-core-and-pelvic-floor-recovery-series-level-1",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/postpartum-core-and-pelvic-floor-recovery-series-level-1",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1023-postpartum-core-and-pelvic-floor-recovery-series-level-1-a5a9.jpg",
     "title": "Postpartum Core and Pelvic Floor Recovery Series - Level 1",
     "subtitle": "",
@@ -1761,10 +1886,11 @@
     "detail-value 5": "281",
     "detail-value 6": "207",
     "detail-value 7": 12,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/feel-good-10-minute-cardio-boost",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/feel-good-10-minute-cardio-boost",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1040-feel-good-10-minute-cardio-boost-8e91.jpg",
     "title": "Feel Good 10-Minute Cardio Boost",
     "subtitle": "",
@@ -1775,10 +1901,11 @@
     "detail-value 5": "3,019",
     "detail-value 6": "450",
     "detail-value 7": 49,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/vinyasa-yoga-midday-pause-flow",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/vinyasa-yoga-midday-pause-flow",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1042-vinyasa-yoga-mid-day-pause-flow-b440.jpg",
     "title": "Vinyasa Yoga: Midday Pause + Flow",
     "subtitle": "",
@@ -1789,10 +1916,11 @@
     "detail-value 5": "920",
     "detail-value 6": "266",
     "detail-value 7": 37,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/combination-moves-supersets-with-bodyweight-cardio-and-core-finishers",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/combination-moves-supersets-with-bodyweight-cardio-and-core-finishers",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-964-combination-moves-supersets-with-bodyweight-cardio-and-core-finishers-9ae7.jpg",
     "title": "Combination Moves Supersets with Bodyweight Cardio and Core Finishers",
     "subtitle": "",
@@ -1803,10 +1931,11 @@
     "detail-value 5": "1,399",
     "detail-value 6": "545",
     "detail-value 7": 97,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-upper-body-strength-workout-single-set-strength-burnout-round",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-upper-body-strength-workout-single-set-strength-burnout-round",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1035-quick-upper-body-strength-workout-9f0c.jpg",
     "title": "Quick Upper Body Strength Workout",
     "subtitle": "Single Set Strength Burnout Round",
@@ -1817,10 +1946,11 @@
     "detail-value 5": "2,364",
     "detail-value 6": "599",
     "detail-value 7": 73,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-pilates-with-resistance-band",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-pilates-with-resistance-band",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1053-lower-body-pilates-with-resistance-band-82f9.jpg",
     "title": "Lower Body Pilates with Resistance Band",
     "subtitle": "",
@@ -1831,10 +1961,11 @@
     "detail-value 5": "3,987",
     "detail-value 6": "1,415",
     "detail-value 7": 96,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/gentle-yoga-full-body-deep-stretch",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/gentle-yoga-full-body-deep-stretch",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1038-gentle-yoga-full-body-deep-stretch-946d.jpg",
     "title": "Gentle Yoga: Full-Body Deep Stretch",
     "subtitle": "",
@@ -1845,10 +1976,11 @@
     "detail-value 5": "426",
     "detail-value 6": "250",
     "detail-value 7": 31,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-strength-complex-with-bodyweight-finishers",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-strength-complex-with-bodyweight-finishers",
     "image": "",
     "title": "Total Body Strength Complex with Bodyweight Finishers",
     "subtitle": "",
@@ -1859,10 +1991,11 @@
     "detail-value 5": "1,253",
     "detail-value 6": "486",
     "detail-value 7": 89,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-bored-easily-cardio",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-bored-easily-cardio",
     "image": "",
     "title": "Total Body Bored Easily Cardio",
     "subtitle": "",
@@ -1873,10 +2006,11 @@
     "detail-value 5": "2,482",
     "detail-value 6": "662",
     "detail-value 7": 69,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-tri-sets-with-plank-intermissions",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-tri-sets-with-plank-intermissions",
     "image": "",
     "title": "Lower Body Strength Tri-Sets with Plank Intermissions",
     "subtitle": "",
@@ -1887,10 +2021,11 @@
     "detail-value 5": "1,174",
     "detail-value 6": "419",
     "detail-value 7": 73,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/44-minute-upper-body-strength-with-kettlebell-burnouts",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/44-minute-upper-body-strength-with-kettlebell-burnouts",
     "image": "",
     "title": "44 Minute Upper Body Strength with Kettlebell Burnouts",
     "subtitle": "",
@@ -1901,10 +2036,11 @@
     "detail-value 5": "913",
     "detail-value 6": "247",
     "detail-value 7": 42,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/15-minute-inner-thigh-strength-add-on",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/15-minute-inner-thigh-strength-add-on",
     "image": "",
     "title": "15 Minute Inner Thigh Strength Add-On",
     "subtitle": "",
@@ -1915,10 +2051,11 @@
     "detail-value 5": "1,932",
     "detail-value 6": "433",
     "detail-value 7": 60,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/30-minute-bear-crawl-circuits-with-cardio-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/30-minute-bear-crawl-circuits-with-cardio-intervals",
     "image": "",
     "title": "30 Minute Bear Crawl Circuits with Cardio Intervals",
     "subtitle": "",
@@ -1929,10 +2066,11 @@
     "detail-value 5": "498",
     "detail-value 6": "177",
     "detail-value 7": 41,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/vinyasa-yoga-with-basic-inversion-building-practice-build-the-foundations-to-fly-in-crow-pose",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/vinyasa-yoga-with-basic-inversion-building-practice-build-the-foundations-to-fly-in-crow-pose",
     "image": "",
     "title": "Vinyasa Yoga With Basic Inversion-Building Practice",
     "subtitle": "Build the foundations to fly in Crow pose",
@@ -1943,10 +2081,11 @@
     "detail-value 5": "192",
     "detail-value 6": "115",
     "detail-value 7": 14,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/15-minute-weighted-hiit-workout-with-kettlebell-or-dumbbell",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/15-minute-weighted-hiit-workout-with-kettlebell-or-dumbbell",
     "image": "",
     "title": "15-Minute Weighted HIIT Workout with Kettlebell or Dumbbell",
     "subtitle": "",
@@ -1957,10 +2096,11 @@
     "detail-value 5": "797",
     "detail-value 6": "277",
     "detail-value 7": 39,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bodyweight-cardio-interval-kickboxing-part-ii",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bodyweight-cardio-interval-kickboxing-part-ii",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-986-bodyweight-cardio-interval-kickboxing-part-ii-aee6.jpg",
     "title": "Bodyweight Cardio Interval Kickboxing – Part II",
     "subtitle": "",
@@ -1971,10 +2111,11 @@
     "detail-value 5": "1,746",
     "detail-value 6": "560",
     "detail-value 7": 113,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/pelvic-floor-relaxing-stretches-to-down-train-overactive-muscles",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/pelvic-floor-relaxing-stretches-to-down-train-overactive-muscles",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1002-pelvic-floor-relaxing-stretches-to-down-train-overactive-muscles-8942.jpg",
     "title": "Pelvic Floor Relaxing: Stretches to Down-Train Overactive Muscles",
     "subtitle": "",
@@ -1985,10 +2126,11 @@
     "detail-value 5": "250",
     "detail-value 6": "247",
     "detail-value 7": 30,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/365-celebration-workout-with-mobility-core-and-burpee-emom",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/365-celebration-workout-with-mobility-core-and-burpee-emom",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1037-365-celebration-workout-with-mobility-core-and-burpee-emom-a700.jpg",
     "title": "365 Celebration Workout with Mobility, Core, and Burpee EMOM",
     "subtitle": "",
@@ -1999,10 +2141,11 @@
     "detail-value 5": "426",
     "detail-value 6": "163",
     "detail-value 7": 35,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/benchmark-workout-for-total-body-strength-and-conditioning",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/benchmark-workout-for-total-body-strength-and-conditioning",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1039-benchmark-workout-for-total-body-strength-and-conditioning-a49a.jpg",
     "title": "Benchmark Workout for Total Body Strength and Conditioning",
     "subtitle": "",
@@ -2013,10 +2156,11 @@
     "detail-value 5": "3,960",
     "detail-value 6": "416",
     "detail-value 7": 190,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/pure-upper-body-strength-routine-with-core-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/pure-upper-body-strength-routine-with-core-finisher",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1026-pure-upper-body-strength-routine-with-core-finisher-880d.jpg",
     "title": "Pure Upper-Body Strength Routine with Core Finisher",
     "subtitle": "",
@@ -2027,10 +2171,11 @@
     "detail-value 5": "2,880",
     "detail-value 6": "744",
     "detail-value 7": 90,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-workout-with-glute-activation-warm-up-and-cool-down",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-workout-with-glute-activation-warm-up-and-cool-down",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1045-lower-body-strength-workout-with-glute-activation-warm-up-and-cool-down-a95b.jpg",
     "title": "Lower Body Strength Workout with Glute Activation Warm Up and Cool Down",
     "subtitle": "",
@@ -2041,10 +2186,11 @@
     "detail-value 5": "8,246",
     "detail-value 6": "2,914",
     "detail-value 7": 145,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/core-correction-for-postpartum-back-pain-and-rib-flare",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/core-correction-for-postpartum-back-pain-and-rib-flare",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1027-core-correction-for-postpartum-back-pain-and-rib-flare-95fa.jpg",
     "title": "Core Correction For Postpartum, Back Pain, and Rib Flare",
     "subtitle": "",
@@ -2055,10 +2201,11 @@
     "detail-value 5": "294",
     "detail-value 6": "201",
     "detail-value 7": 24,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/30-minute-relaxing-freeform-mindful-stretching-routine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/30-minute-relaxing-freeform-mindful-stretching-routine",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1015-30-minute-relaxing-freeform-mindful-stretching-routine-a5c6.jpg",
     "title": "30 Minute Relaxing Freeform Mindful Stretching Routine",
     "subtitle": "",
@@ -2069,10 +2216,11 @@
     "detail-value 5": "659",
     "detail-value 6": "233",
     "detail-value 7": 31,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/shoulder-and-tricep-yoga-burnout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/shoulder-and-tricep-yoga-burnout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-990-shoulder-and-tricep-yoga-burnout-a139.jpg",
     "title": "Shoulder and Tricep Yoga Burnout",
     "subtitle": "",
@@ -2083,10 +2231,11 @@
     "detail-value 5": "318",
     "detail-value 6": "137",
     "detail-value 7": 23,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-bodyweight-strength-and-power-glutes-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-bodyweight-strength-and-power-glutes-circuits",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-971-quick-bodyweight-strength-and-power-glutes-circuits-9ebc.jpg",
     "title": "Quick Bodyweight Strength and Power Glutes Circuits",
     "subtitle": "",
@@ -2097,10 +2246,11 @@
     "detail-value 5": "2,327",
     "detail-value 6": "480",
     "detail-value 7": 86,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bodyweight-cardio-core-hiit-circuits-with-descending-intervals-and-optional-mini-band",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bodyweight-cardio-core-hiit-circuits-with-descending-intervals-and-optional-mini-band",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1010-bodyweight-cardio-and-core-hiit-circuits-with-descending-intervals-and-optional-mini-band-9199.jpg",
     "title": "Bodyweight Cardio & Core HIIT Circuits with Descending Intervals and Optional Mini Band",
     "subtitle": "",
@@ -2111,10 +2261,11 @@
     "detail-value 5": "1,247",
     "detail-value 6": "468",
     "detail-value 7": 74,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/dynamic-warm-up-for-total-body-strength-or-cardio-workouts",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/dynamic-warm-up-for-total-body-strength-or-cardio-workouts",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-997-dynamic-warm-up-for-total-body-strength-or-cardio-workouts-89c0.jpg",
     "title": "Dynamic Warm-Up for Total Body Strength or Cardio Workouts",
     "subtitle": "",
@@ -2125,10 +2276,11 @@
     "detail-value 5": "2,495",
     "detail-value 6": "306",
     "detail-value 7": 21,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/cool-down-for-total-body-strength-or-cardio-workouts",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/cool-down-for-total-body-strength-or-cardio-workouts",
     "image": "",
     "title": "Cool-Down for Total Body Strength or Cardio Workouts",
     "subtitle": "",
@@ -2139,10 +2291,11 @@
     "detail-value 5": "2,567",
     "detail-value 6": "327",
     "detail-value 7": 23,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-and-low-impact-cardio-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-and-low-impact-cardio-intervals",
     "image": "",
     "title": "Quick and Low Impact Cardio Intervals",
     "subtitle": "",
@@ -2153,10 +2306,11 @@
     "detail-value 5": "1,944",
     "detail-value 6": "535",
     "detail-value 7": 47,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/not-so-boring-balance-quick-kettlebell-workout-to-improve-functional-balance",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/not-so-boring-balance-quick-kettlebell-workout-to-improve-functional-balance",
     "image": "",
     "title": "Not-So-Boring Balance: Quick Kettlebell Workout to Improve Functional Balance",
     "subtitle": "",
@@ -2167,10 +2321,11 @@
     "detail-value 5": "1,046",
     "detail-value 6": "262",
     "detail-value 7": 56,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-core-blast-yoga-power-flow",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-core-blast-yoga-power-flow",
     "image": "",
     "title": "Quick Core Blast Yoga Power Flow",
     "subtitle": "",
@@ -2181,10 +2336,11 @@
     "detail-value 5": "1,538",
     "detail-value 6": "268",
     "detail-value 7": 40,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bodyweight-strength-with-hiit-burnout-sets-total-body-workout-in-30-minutes",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bodyweight-strength-with-hiit-burnout-sets-total-body-workout-in-30-minutes",
     "image": "",
     "title": "Bodyweight Strength with HIIT Burnout Sets - Total Body Workout in 30 Minutes",
     "subtitle": "",
@@ -2195,10 +2351,11 @@
     "detail-value 5": "5,025",
     "detail-value 6": "1,976",
     "detail-value 7": 109,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/7-movements-of-the-spine-gentle-yoga-to-benefit-the-spine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/7-movements-of-the-spine-gentle-yoga-to-benefit-the-spine",
     "image": "",
     "title": "7 Movements of the Spine - Gentle Yoga to Benefit the Spine",
     "subtitle": "",
@@ -2209,10 +2366,11 @@
     "detail-value 5": "597",
     "detail-value 6": "260",
     "detail-value 7": 29,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/step-by-step-build-your-pilates-teaser-routine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/step-by-step-build-your-pilates-teaser-routine",
     "image": "",
     "title": "Step-by-Step Build Your Pilates Teaser Routine",
     "subtitle": "",
@@ -2223,10 +2381,11 @@
     "detail-value 5": "995",
     "detail-value 6": "150",
     "detail-value 7": 44,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/three-circuit-total-body-strength-workout-with-2-minute-cardio-challenges",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/three-circuit-total-body-strength-workout-with-2-minute-cardio-challenges",
     "image": "",
     "title": "Three-Circuit Total Body Strength Workout with 2-Minute Cardio Challenges",
     "subtitle": "",
@@ -2237,10 +2396,11 @@
     "detail-value 5": "958",
     "detail-value 6": "459",
     "detail-value 7": 71,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/mellow-cardio-for-days-when-you-don-t-wanna-gentle-beginner-cardio-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/mellow-cardio-for-days-when-you-don-t-wanna-gentle-beginner-cardio-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-984-mellow-cardio-for-days-when-you-dont-wanna-gentle-beginner-cardio-workout-b326.jpg",
     "title": "Mellow Cardio for Days When You Don’t Wanna: Gentle Beginner Cardio Workout",
     "subtitle": "",
@@ -2251,10 +2411,11 @@
     "detail-value 5": "6,661",
     "detail-value 6": "1,044",
     "detail-value 7": 201,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-and-cardio-mini-circuit-burnout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-and-cardio-mini-circuit-burnout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1007-lower-body-strength-and-cardio-mini-circuit-burnout-9fab.jpg",
     "title": "Lower Body Strength and Cardio Mini Circuit Burnout",
     "subtitle": "",
@@ -2265,10 +2426,11 @@
     "detail-value 5": "2,070",
     "detail-value 6": "637",
     "detail-value 7": 235,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-restore-15-minute-deep-stretch-for-legs-glutes-and-hips",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-restore-15-minute-deep-stretch-for-legs-glutes-and-hips",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-974-lower-body-restore-15-minute-deep-stretch-for-legs-glutes-and-hips-9fee.jpg",
     "title": "Lower Body Restore: 15 Minute Deep Stretch for Legs, Glutes, and Hips",
     "subtitle": "",
@@ -2279,10 +2441,11 @@
     "detail-value 5": "3,151",
     "detail-value 6": "722",
     "detail-value 7": 67,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/10-minute-abs-with-a-foam-roll",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/10-minute-abs-with-a-foam-roll",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1004-10-minute-abs-with-a-foam-roll-93cb.jpg",
     "title": "10-Minute Abs with a Foam Roll",
     "subtitle": "",
@@ -2293,10 +2456,11 @@
     "detail-value 5": "480",
     "detail-value 6": "167",
     "detail-value 7": 25,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-half-tabata-total-body-workout-with-burnout-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-half-tabata-total-body-workout-with-burnout-finisher",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1005-quick-half-tabata-total-body-workout-with-burnout-finisher-978d.jpg",
     "title": "Quick Half Tabata Total Body Workout with Burnout Finisher",
     "subtitle": "",
@@ -2307,10 +2471,11 @@
     "detail-value 5": "904",
     "detail-value 6": "352",
     "detail-value 7": 102,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-cardio-kickboxing-and-upper-body-burnout-27-minutes-of-sweat-cardio",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-cardio-kickboxing-and-upper-body-burnout-27-minutes-of-sweat-cardio",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1011-quick-cardio-kickboxing-and-upper-body-burnout-27-minutes-of-sweat-cardio-ad63.jpg",
     "title": "Quick Cardio Kickboxing and Upper Body Burnout - 27 Minutes of Sweat Cardio",
     "subtitle": "",
@@ -2321,10 +2486,11 @@
     "detail-value 5": "2,043",
     "detail-value 6": "401",
     "detail-value 7": 60,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-and-upper-body-mini-strength-complexes-with-add-on-style-core-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-and-upper-body-mini-strength-complexes-with-add-on-style-core-finisher",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1016-lower-and-upper-body-mini-strength-complexes-with-add-on-style-core-finisher-aeb7.jpg",
     "title": "Lower and Upper Body Mini Strength Complexes with Add-On Style Core Finisher",
     "subtitle": "",
@@ -2335,10 +2501,11 @@
     "detail-value 5": "6,155",
     "detail-value 6": "2,268",
     "detail-value 7": 208,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-quick-foam-rolling-workout-extended-cool-down",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-quick-foam-rolling-workout-extended-cool-down",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1008-total-body-quick-foam-rolling-workout-extended-cool-down-bc4c.jpg",
     "title": "Total Body Quick Foam Rolling Workout - Extended Cool Down",
     "subtitle": "",
@@ -2349,10 +2516,11 @@
     "detail-value 5": "561",
     "detail-value 6": "181",
     "detail-value 7": 17,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/three-round-core-strength-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/three-round-core-strength-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1000-three-round-core-strength-workout-8aa8.jpg",
     "title": "Three-Round Core Strength Workout",
     "subtitle": "",
@@ -2363,10 +2531,11 @@
     "detail-value 5": "1,140",
     "detail-value 6": "369",
     "detail-value 7": 62,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/cardio-on-the-minute-strength-circuits-with-push-ups-match-or-beat-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/cardio-on-the-minute-strength-circuits-with-push-ups-match-or-beat-finisher",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-968-cardio-on-the-minute-strength-circuits-with-push-ups-match-or-beat-finisher-8c3c.jpg",
     "title": "Cardio on the Minute Strength Circuits with Push-ups Match or Beat Finisher",
     "subtitle": "",
@@ -2377,10 +2546,11 @@
     "detail-value 5": "594",
     "detail-value 6": "245",
     "detail-value 7": 68,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/weighted-upper-body-tabata-circuits-for-endurance",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/weighted-upper-body-tabata-circuits-for-endurance",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-983-weighted-upper-body-tabata-circuits-for-endurance-a5cc.jpg",
     "title": "Weighted Upper Body Tabata Circuits for Endurance",
     "subtitle": "",
@@ -2391,10 +2561,11 @@
     "detail-value 5": "2,366",
     "detail-value 6": "672",
     "detail-value 7": 117,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-with-step-sweaty-cardio-burnout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-with-step-sweaty-cardio-burnout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-996-lower-body-strength-with-step-sweaty-cardio-burnout-9b03.jpg",
     "title": "Lower Body Strength with Step + Sweaty Cardio Burnout",
     "subtitle": "",
@@ -2405,10 +2576,11 @@
     "detail-value 5": "3,339",
     "detail-value 6": "706",
     "detail-value 7": 130,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-lower-body-bodyweight-amrap-with-emom-burnout-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-lower-body-bodyweight-amrap-with-emom-burnout-finisher",
     "image": "",
     "title": "Quick Lower Body Bodyweight AMRAP with EMOM Burnout Finisher",
     "subtitle": "",
@@ -2419,10 +2591,11 @@
     "detail-value 5": "880",
     "detail-value 6": "282",
     "detail-value 7": 77,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/unconventional-upper-body-extended-warm-up",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/unconventional-upper-body-extended-warm-up",
     "image": "",
     "title": "Unconventional Upper Body Extended Warm Up",
     "subtitle": "",
@@ -2433,10 +2606,11 @@
     "detail-value 5": "544",
     "detail-value 6": "125",
     "detail-value 7": 27,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/pilates-core-and-lower-body-combo-routine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/pilates-core-and-lower-body-combo-routine",
     "image": "",
     "title": "Pilates Core and Lower Body Combo Routine",
     "subtitle": "",
@@ -2447,10 +2621,11 @@
     "detail-value 5": "1,850",
     "detail-value 6": "548",
     "detail-value 7": 82,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/workout-for-sore-legs-lower-body-recovery-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/workout-for-sore-legs-lower-body-recovery-workout",
     "image": "",
     "title": "Workout for Sore Legs: Lower Body Recovery Workout",
     "subtitle": "",
@@ -2461,10 +2636,11 @@
     "detail-value 5": "2,352",
     "detail-value 6": "534",
     "detail-value 7": 46,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-strength-with-push-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-strength-with-push-intervals",
     "image": "",
     "title": "Upper Body Strength with Push Intervals",
     "subtitle": "",
@@ -2475,10 +2651,11 @@
     "detail-value 5": "3,997",
     "detail-value 6": "691",
     "detail-value 7": 139,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/prenatal-cardio-intervals-to-prepare-for-birth",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/prenatal-cardio-intervals-to-prepare-for-birth",
     "image": "",
     "title": "Prenatal Cardio Intervals to Prepare For Birth",
     "subtitle": "",
@@ -2489,10 +2666,11 @@
     "detail-value 5": "175",
     "detail-value 6": "111",
     "detail-value 7": 13,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/core-balance-and-strength-circuits-with-three-round-match-or-beat-cardio-hiit",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/core-balance-and-strength-circuits-with-three-round-match-or-beat-cardio-hiit",
     "image": "",
     "title": "Core Balance and Strength Circuits with Three Round Match or Beat Cardio HIIT",
     "subtitle": "",
@@ -2503,10 +2681,11 @@
     "detail-value 5": "3,630",
     "detail-value 6": "489",
     "detail-value 7": 185,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/prenatal-functional-pelvic-strengthening-to-prep-for-parenthood",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/prenatal-functional-pelvic-strengthening-to-prep-for-parenthood",
     "image": "",
     "title": "Prenatal Functional Pelvic Strengthening to Prep for Parenthood",
     "subtitle": "",
@@ -2517,10 +2696,11 @@
     "detail-value 5": "219",
     "detail-value 6": "170",
     "detail-value 7": 23,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-warm-up-for-any-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-warm-up-for-any-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-991-total-body-warm-up-for-any-workout-bad3.jpg",
     "title": "Total Body Warm-Up For Any Workout",
     "subtitle": "",
@@ -2531,10 +2711,11 @@
     "detail-value 5": "909",
     "detail-value 6": "266",
     "detail-value 7": 19,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/standing-abs-plank-and-core-workout-no-equipment-abs-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/standing-abs-plank-and-core-workout-no-equipment-abs-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-980-standing-abs-plank-and-core-workout-no-equipment-abs-workout-8ab7.jpg",
     "title": "Standing Abs, Plank, and Core Workout - No Equipment Abs Workout",
     "subtitle": "",
@@ -2545,10 +2726,11 @@
     "detail-value 5": "5,597",
     "detail-value 6": "804",
     "detail-value 7": 81,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/time-under-tension-lower-body-strength-circuits-with-bodyweight-intermissions",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/time-under-tension-lower-body-strength-circuits-with-bodyweight-intermissions",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-993-time-under-tension-lower-body-strength-circuits-with-bodyweight-intermissions-bcd7.jpg",
     "title": "Time Under Tension Lower Body Strength Circuits with Bodyweight Intermissions",
     "subtitle": "",
@@ -2559,10 +2741,11 @@
     "detail-value 5": "2,180",
     "detail-value 6": "573",
     "detail-value 7": 164,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/express-total-body-workout-10-or-15-minutes-you-choose",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/express-total-body-workout-10-or-15-minutes-you-choose",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1003-express-total-body-workout-10-or-15-minutes-you-choose-8ce8.jpg",
     "title": "Express Total Body Workout - 10 or 15 Minutes You Choose",
     "subtitle": "",
@@ -2573,10 +2756,11 @@
     "detail-value 5": "3,620",
     "detail-value 6": "1,716",
     "detail-value 7": 123,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/pelvic-floor-for-beginners",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/pelvic-floor-for-beginners",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-965-pelvic-floor-for-beginners-8bef.jpg",
     "title": "Pelvic Floor for Beginners",
     "subtitle": "",
@@ -2587,10 +2771,11 @@
     "detail-value 5": "441",
     "detail-value 6": "347",
     "detail-value 7": 35,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/add-on-style-total-body-hiit-with-step",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/add-on-style-total-body-hiit-with-step",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-956-add-on-style-total-body-hiit-with-step-a5df.jpg",
     "title": "Add-On Style Total Body HIIT with Step",
     "subtitle": "",
@@ -2601,10 +2786,11 @@
     "detail-value 5": "1,004",
     "detail-value 6": "288",
     "detail-value 7": 97,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/physioball-pilates-with-teaser-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/physioball-pilates-with-teaser-finisher",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-988-physioball-pilates-with-teaser-finisher-9a37.jpg",
     "title": "Physioball Pilates with Teaser Finisher",
     "subtitle": "",
@@ -2615,10 +2801,11 @@
     "detail-value 5": "611",
     "detail-value 6": "214",
     "detail-value 7": 49,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-hiit-workout-strength-sets-with-hiit-cardio-burst",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-hiit-workout-strength-sets-with-hiit-cardio-burst",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-970-lower-body-strength-and-hiit-workout-strength-sets-with-hiit-cardio-burst-a748.jpg",
     "title": "Lower Body Strength & HIIT Workout – Strength Sets with HIIT Cardio Burst",
     "subtitle": "",
@@ -2629,10 +2816,11 @@
     "detail-value 5": "7,176",
     "detail-value 6": "1,101",
     "detail-value 7": 162,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-bored-easily-bodyweight-hiit-with-athletic-drills",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-bored-easily-bodyweight-hiit-with-athletic-drills",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-975-quick-bored-easily-bodyweight-hiit-with-athletic-drills-8bf1.jpg",
     "title": "Quick Bored Easily Bodyweight HIIT with Athletic Drills",
     "subtitle": "",
@@ -2643,10 +2831,11 @@
     "detail-value 5": "4,280",
     "detail-value 6": "2,113",
     "detail-value 7": 237,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/beginner-pilates-for-foundational-strength-and-stability",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/beginner-pilates-for-foundational-strength-and-stability",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-982-beginner-pilates-for-foundational-strength-and-stability-a68b.jpg",
     "title": "Beginner Pilates for Foundational Strength and Stability",
     "subtitle": "",
@@ -2657,10 +2846,11 @@
     "detail-value 5": "7,792",
     "detail-value 6": "761",
     "detail-value 7": 150,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lengthy-relaxing-stretches-with-timed-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lengthy-relaxing-stretches-with-timed-intervals",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-940-lengthy-relaxing-stretches-with-timed-intervals-80a3.jpg",
     "title": "Lengthy Relaxing Stretches with Timed Intervals",
     "subtitle": "",
@@ -2671,10 +2861,11 @@
     "detail-value 5": "3,464",
     "detail-value 6": "536",
     "detail-value 7": 51,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/express-total-body-weighted-emoms-with-muscle-group-focused-rounds",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/express-total-body-weighted-emoms-with-muscle-group-focused-rounds",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-969-express-total-body-weighted-emoms-with-muscle-group-focused-rounds-b7a6.jpg",
     "title": "Express Total Body Weighted EMOMs with Muscle Group Focused Rounds",
     "subtitle": "",
@@ -2685,10 +2876,11 @@
     "detail-value 5": "2,820",
     "detail-value 6": "521",
     "detail-value 7": 80,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/15-minute-ballet-inspired-core-add-on",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/15-minute-ballet-inspired-core-add-on",
     "image": "",
     "title": "15 Minute Ballet-Inspired Core Add-On",
     "subtitle": "",
@@ -2699,10 +2891,11 @@
     "detail-value 5": "1,655",
     "detail-value 6": "353",
     "detail-value 7": 39,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-weighted-and-bodyweight-strength-circuits-with-cardio-bookends",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-weighted-and-bodyweight-strength-circuits-with-cardio-bookends",
     "image": "",
     "title": "Total Body Weighted and Bodyweight Strength Circuits with Cardio Bookends",
     "subtitle": "",
@@ -2713,10 +2906,11 @@
     "detail-value 5": "1,331",
     "detail-value 6": "539",
     "detail-value 7": 134,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/functional-total-body-circuits-for-pregnancy-and-parenthood",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/functional-total-body-circuits-for-pregnancy-and-parenthood",
     "image": "",
     "title": "Functional Total Body Circuits for Pregnancy and Parenthood",
     "subtitle": "",
@@ -2727,10 +2921,11 @@
     "detail-value 5": "411",
     "detail-value 6": "237",
     "detail-value 7": 52,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/no-impact-descending-ladder-for-glutes-advanced-pelvic-stability-with-extended-cool-down",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/no-impact-descending-ladder-for-glutes-advanced-pelvic-stability-with-extended-cool-down",
     "image": "",
     "title": "No-Impact Descending Ladder for Glutes (Advanced Pelvic Stability) with Extended Cool Down",
     "subtitle": "",
@@ -2741,10 +2936,11 @@
     "detail-value 5": "2,284",
     "detail-value 6": "494",
     "detail-value 7": 149,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/ballet-inspired-lower-body-strength",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/ballet-inspired-lower-body-strength",
     "image": "",
     "title": "Ballet-Inspired Lower Body Strength",
     "subtitle": "",
@@ -2755,10 +2951,11 @@
     "detail-value 5": "1,465",
     "detail-value 6": "551",
     "detail-value 7": 83,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/single-dumbbell-upper-body-strength-circuits-with-core-emom-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/single-dumbbell-upper-body-strength-circuits-with-core-emom-finisher",
     "image": "",
     "title": "Single Dumbbell Upper Body Strength Circuits with Core EMOM Finisher",
     "subtitle": "",
@@ -2769,10 +2966,11 @@
     "detail-value 5": "4,601",
     "detail-value 6": "618",
     "detail-value 7": 143,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-upper-body-total-body-workout-combo-and-isolation-strength-sets",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-upper-body-total-body-workout-combo-and-isolation-strength-sets",
     "image": "",
     "title": "Lower Body, Upper Body, Total Body Workout: Combo and Isolation Strength Sets",
     "subtitle": "",
@@ -2783,10 +2981,11 @@
     "detail-value 5": "1,882",
     "detail-value 6": "693",
     "detail-value 7": 57,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/kettlebell-lower-body-hiit-for-strength-and-power",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/kettlebell-lower-body-hiit-for-strength-and-power",
     "image": "",
     "title": "Kettlebell Lower Body HIIT for Strength and Power",
     "subtitle": "",
@@ -2797,10 +2996,11 @@
     "detail-value 5": "3,133",
     "detail-value 6": "1,271",
     "detail-value 7": 147,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-work-break-stretches-for-the-spine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-work-break-stretches-for-the-spine",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-960-quick-work-break-stretch-9a57.jpg",
     "title": "Quick Work Break Stretches for the Spine",
     "subtitle": "",
@@ -2811,10 +3011,11 @@
     "detail-value 5": "852",
     "detail-value 6": "389",
     "detail-value 7": 30,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/low-impact-bodyweight-cardio-with-descending-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/low-impact-bodyweight-cardio-with-descending-intervals",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-954-low-impact-bodyweight-cardio-with-descending-intervals-b398.jpg",
     "title": "Low-Impact Bodyweight Cardio with Descending Intervals",
     "subtitle": "",
@@ -2825,10 +3026,11 @@
     "detail-value 5": "4,850",
     "detail-value 6": "991",
     "detail-value 7": 219,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-foam-rolling-workout-with-stretching-breaks",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-foam-rolling-workout-with-stretching-breaks",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-933-total-body-foam-rolling-workout-with-stretching-breaks-b061.jpg",
     "title": "Total Body Foam Rolling Workout with Stretching Breaks",
     "subtitle": "",
@@ -2839,10 +3041,11 @@
     "detail-value 5": "484",
     "detail-value 6": "194",
     "detail-value 7": 18,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/three-round-upper-body-strength-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/three-round-upper-body-strength-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-959-three-round-upper-body-strength-workout-9e02.jpg",
     "title": "Three-Round Upper Body Strength Workout",
     "subtitle": "",
@@ -2853,10 +3056,11 @@
     "detail-value 5": "4,104",
     "detail-value 6": "770",
     "detail-value 7": 131,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/single-dumbbell-lower-body-strength-circuits-with-cardio-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/single-dumbbell-lower-body-strength-circuits-with-cardio-finisher",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-957-single-dumbbell-lower-body-strength-circuits-with-cardio-finisher-b211.jpg",
     "title": "Single Dumbbell Lower Body Strength Circuits with Cardio Finisher",
     "subtitle": "",
@@ -2867,10 +3071,11 @@
     "detail-value 5": "5,168",
     "detail-value 6": "766",
     "detail-value 7": 309,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/core-focus-power-flow",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/core-focus-power-flow",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-958-core-focus-power-flow-8858.jpg",
     "title": "Core Focus Power Flow",
     "subtitle": "",
@@ -2881,10 +3086,11 @@
     "detail-value 5": "1,492",
     "detail-value 6": "367",
     "detail-value 7": 83,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/cobweb-shakeout-bodyweight-strength-routine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/cobweb-shakeout-bodyweight-strength-routine",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-952-cobweb-shakeout-bodyweight-strength-routine-ba67.jpg",
     "title": "Cobweb Shakeout Bodyweight Strength Routine",
     "subtitle": "",
@@ -2895,10 +3101,11 @@
     "detail-value 5": "9,616",
     "detail-value 6": "683",
     "detail-value 7": 288,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/energizing-total-body-21-minute-hiit",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/energizing-total-body-21-minute-hiit",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-945-energizing-total-body-21-minute-hiit-a39b.jpg",
     "title": "Energizing Total Body 21-Minute HIIT",
     "subtitle": "",
@@ -2909,10 +3116,11 @@
     "detail-value 5": "1,532",
     "detail-value 6": "566",
     "detail-value 7": 104,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-2-day-split-lower-body-pull-workout-for-strength-or-mass",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-2-day-split-lower-body-pull-workout-for-strength-or-mass",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-947-lower-body-strength-2-day-split-lower-body-pull-workout-for-strength-or-mass-afa6.jpg",
     "title": "Lower Body Strength 2 Day Split - Lower Body Pull Workout for Strength or Mass",
     "subtitle": "",
@@ -2923,10 +3131,11 @@
     "detail-value 5": "935",
     "detail-value 6": "199",
     "detail-value 7": 32,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-pure-strength-with-dumbbells-step-and-resistance-band",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-pure-strength-with-dumbbells-step-and-resistance-band",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-943-total-body-pure-strength-with-dumbbells-step-and-resistance-band-b9a5.jpg",
     "title": "Total Body Pure Strength with Dumbbells, Step, and Resistance Band",
     "subtitle": "",
@@ -2937,10 +3146,11 @@
     "detail-value 5": "526",
     "detail-value 6": "289",
     "detail-value 7": 66,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/pre-and-postnatal-glute-core-and-pelvic-floor-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/pre-and-postnatal-glute-core-and-pelvic-floor-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-953-pre-and-postnatal-glute-core-and-pelvic-floor-workout-a27d.jpg",
     "title": "Pre and Postnatal Glute, Core, and Pelvic Floor Workout",
     "subtitle": "",
@@ -2951,10 +3161,11 @@
     "detail-value 5": "1,376",
     "detail-value 6": "1,376",
     "detail-value 7": 107,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/restorative-yoga-for-lower-back-and-hips",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/restorative-yoga-for-lower-back-and-hips",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-948-restorative-yoga-for-lower-back-and-hips-b1ad.jpg",
     "title": "Restorative Yoga for Lower Back and Hips",
     "subtitle": "",
@@ -2965,10 +3176,11 @@
     "detail-value 5": "501",
     "detail-value 6": "307",
     "detail-value 7": 38,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/ballet-inspired-total-body-sculpting-with-resistance-bands",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/ballet-inspired-total-body-sculpting-with-resistance-bands",
     "image": "",
     "title": "Ballet-Inspired Total Body Sculpting with Resistance Bands",
     "subtitle": "",
@@ -2979,10 +3191,11 @@
     "detail-value 5": "1,309",
     "detail-value 6": "363",
     "detail-value 7": 97,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/at-home-walking-workout-beginner-to-advanced-walking-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/at-home-walking-workout-beginner-to-advanced-walking-workout",
     "image": "",
     "title": "At Home Walking Workout - Beginner to Advanced Walking Workout",
     "subtitle": "",
@@ -2993,10 +3206,11 @@
     "detail-value 5": "7,967",
     "detail-value 6": "982",
     "detail-value 7": 130,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-2-day-split-lower-body-push-workout-for-strength-or-mass",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-2-day-split-lower-body-push-workout-for-strength-or-mass",
     "image": "",
     "title": "Lower Body Strength 2-Day Split - Lower Body Push Workout for Strength or Mass",
     "subtitle": "",
@@ -3007,10 +3221,11 @@
     "detail-value 5": "1,570",
     "detail-value 6": "295",
     "detail-value 7": 32,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/prenatal-low-impact-cardio-hiit-workout-with-leg-glute-focus",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/prenatal-low-impact-cardio-hiit-workout-with-leg-glute-focus",
     "image": "",
     "title": "Prenatal Low-Impact Cardio HIIT Workout With Leg & Glute Focus",
     "subtitle": "",
@@ -3021,10 +3236,11 @@
     "detail-value 5": "453",
     "detail-value 6": "235",
     "detail-value 7": 50,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/fire-flow-power-flow-with-static-holds-and-fluid-poses-for-mobility",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/fire-flow-power-flow-with-static-holds-and-fluid-poses-for-mobility",
     "image": "",
     "title": "Fire + Flow - Power Flow with Static Holds and Fluid Poses for Mobility",
     "subtitle": "",
@@ -3035,10 +3251,11 @@
     "detail-value 5": "2,145",
     "detail-value 6": "463",
     "detail-value 7": 129,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/weighted-total-body-tabata-with-core-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/weighted-total-body-tabata-with-core-finisher",
     "image": "",
     "title": "Weighted Total Body Tabata With Core Finisher",
     "subtitle": "",
@@ -3049,10 +3266,11 @@
     "detail-value 5": "3,123",
     "detail-value 6": "871",
     "detail-value 7": 173,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/straightforward-strength-circuits-with-ladder-up-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/straightforward-strength-circuits-with-ladder-up-finisher",
     "image": "",
     "title": "Straightforward Strength Circuits with Ladder-Up Finisher",
     "subtitle": "",
@@ -3063,10 +3281,11 @@
     "detail-value 5": "3,791",
     "detail-value 6": "599",
     "detail-value 7": 150,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/full-body-feel-good-pilates",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/full-body-feel-good-pilates",
     "image": "",
     "title": "Full-Body Feel Good Pilates",
     "subtitle": "",
@@ -3077,10 +3296,11 @@
     "detail-value 5": "5,104",
     "detail-value 6": "846",
     "detail-value 7": 263,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/no-impact-wellness-routine-for-sciatic-like-pain",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/no-impact-wellness-routine-for-sciatic-like-pain",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-931-no-impact-wellness-routine-for-sciatic-like-pain-8909.jpg",
     "title": "No-Impact Wellness Routine for Sciatic-Like Pain",
     "subtitle": "",
@@ -3091,10 +3311,11 @@
     "detail-value 5": "2,612",
     "detail-value 6": "506",
     "detail-value 7": 72,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/45-minute-hiit-and-abs-home-workout-no-equipment-remix-cardio-and-core",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/45-minute-hiit-and-abs-home-workout-no-equipment-remix-cardio-and-core",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-920-45-minute-hiit-and-abs-home-workout-no-equipment-remix-cardio-and-core-98ac.jpg",
     "title": "45 Minute HIIT and Abs Home Workout - No Equipment Remix Cardio and Core",
     "subtitle": "",
@@ -3105,10 +3326,11 @@
     "detail-value 5": "8,768",
     "detail-value 6": "2,377",
     "detail-value 7": 171,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-and-core-hiit-with-burpee-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-and-core-hiit-with-burpee-finisher",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-929-lower-body-and-core-hiit-with-burpee-finisher-a7ee.jpg",
     "title": "Lower Body and Core HIIT with Burpee Finisher",
     "subtitle": "",
@@ -3119,10 +3341,11 @@
     "detail-value 5": "3,557",
     "detail-value 6": "406",
     "detail-value 7": 105,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/three-round-lower-body-strength-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/three-round-lower-body-strength-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-930-three-round-lower-body-strength-workout-aee0.jpg",
     "title": "Three-Round Lower Body Strength Workout",
     "subtitle": "",
@@ -3133,10 +3356,11 @@
     "detail-value 5": "5,450",
     "detail-value 6": "931",
     "detail-value 7": 282,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/sweaty-cardio-and-core-circuits-for-endurance",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/sweaty-cardio-and-core-circuits-for-endurance",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-932-sweaty-cardio-and-core-circuits-for-endurance-87a1.jpg",
     "title": "Sweaty Cardio and Core Circuits for Endurance",
     "subtitle": "",
@@ -3147,10 +3371,11 @@
     "detail-value 5": "2,460",
     "detail-value 6": "739",
     "detail-value 7": 91,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/work-out-with-me-freestyle-upper-body-strength-workout-for-people-who-get-bored-easily",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/work-out-with-me-freestyle-upper-body-strength-workout-for-people-who-get-bored-easily",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-925-work-out-with-me-freestyle-upper-body-strength-workout-for-people-who-get-bored-easily-9d2f.jpg",
     "title": "Work Out With Me! Freestyle Upper Body Strength Workout for People Who Get Bored Easily",
     "subtitle": "",
@@ -3161,10 +3386,11 @@
     "detail-value 5": "3,271",
     "detail-value 6": "719",
     "detail-value 7": 155,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/mat-stretches-for-stiff-hips",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/mat-stretches-for-stiff-hips",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-888-mat-stretches-for-stiff-hips-9f1a.jpg",
     "title": "Mat Stretches for Stiff Hips",
     "subtitle": "",
@@ -3175,10 +3401,11 @@
     "detail-value 5": "6,012",
     "detail-value 6": "2,746",
     "detail-value 7": 319,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-foam-roller-core-stability-routine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-foam-roller-core-stability-routine",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-928-quick-foam-roller-core-stability-routine-8e43.jpg",
     "title": "Quick Foam Roller Core Stability Routine",
     "subtitle": "",
@@ -3189,10 +3416,11 @@
     "detail-value 5": "741",
     "detail-value 6": "246",
     "detail-value 7": 54,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/essential-total-body-moves-to-enhance-running-form",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/essential-total-body-moves-to-enhance-running-form",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-927-essential-total-body-moves-to-enhance-running-form-9845.jpg",
     "title": "Essential Total Body Moves to Enhance Running Form",
     "subtitle": "",
@@ -3203,10 +3431,11 @@
     "detail-value 5": "524",
     "detail-value 6": "228",
     "detail-value 7": 62,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/three-round-emom-circuit-with-match-or-beat-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/three-round-emom-circuit-with-match-or-beat-finisher",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-926-three-round-emom-circuit-with-match-or-beat-finisher-8a6c.jpg",
     "title": "Three-Round EMOM Circuit with Match or Beat Finisher",
     "subtitle": "",
@@ -3217,10 +3446,11 @@
     "detail-value 5": "1,851",
     "detail-value 6": "359",
     "detail-value 7": 108,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-bodyweight-hiit-pyramid",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-bodyweight-hiit-pyramid",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-924-total-body-bodyweight-hiit-pyramid-8242.jpg",
     "title": "Total Body Bodyweight HIIT Pyramid",
     "subtitle": "",
@@ -3231,10 +3461,11 @@
     "detail-value 5": "1,722",
     "detail-value 6": "527",
     "detail-value 7": 109,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-hiit-workout-with-dumbbells-step-and-resistance-band",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-hiit-workout-with-dumbbells-step-and-resistance-band",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-845-lower-body-strength-and-hiit-workout-with-dumbbells-step-and-resistance-band-ac30.jpg",
     "title": "Lower Body Strength & HIIT Workout with Dumbbells, Step, and Resistance Band",
     "subtitle": "",
@@ -3245,10 +3476,11 @@
     "detail-value 5": "9,737",
     "detail-value 6": "2,583",
     "detail-value 7": 292,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/exercise-ball-core-add-on-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/exercise-ball-core-add-on-workout",
     "image": "",
     "title": "Exercise Ball Core Add-on Workout",
     "subtitle": "",
@@ -3259,10 +3491,11 @@
     "detail-value 5": "1,205",
     "detail-value 6": "287",
     "detail-value 7": 72,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/hip-flexor-strengthening-and-mobility-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/hip-flexor-strengthening-and-mobility-workout",
     "image": "",
     "title": "Hip Flexor Strengthening and Mobility Workout",
     "subtitle": "",
@@ -3273,10 +3506,11 @@
     "detail-value 5": "564",
     "detail-value 6": "399",
     "detail-value 7": 62,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/mini-add-on-style-total-body-strength-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/mini-add-on-style-total-body-strength-circuits",
     "image": "",
     "title": "Mini Add-On Style Total Body Strength Circuits",
     "subtitle": "",
@@ -3287,10 +3521,11 @@
     "detail-value 5": "2,172",
     "detail-value 6": "539",
     "detail-value 7": 188,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/20-minute-energizing-and-restorative-cardio-and-stretch-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/20-minute-energizing-and-restorative-cardio-and-stretch-workout",
     "image": "",
     "title": "20-Minute Energizing and Restorative Cardio and Stretch Workout",
     "subtitle": "",
@@ -3301,10 +3536,11 @@
     "detail-value 5": "8,296",
     "detail-value 6": "814",
     "detail-value 7": 205,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/kettlebell-total-body-complex-style-circuits-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/kettlebell-total-body-complex-style-circuits-workout",
     "image": "",
     "title": "Kettlebell Total Body Complex-Style Circuits Workout",
     "subtitle": "",
@@ -3315,10 +3551,11 @@
     "detail-value 5": "1,341",
     "detail-value 6": "408",
     "detail-value 7": 112,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-strength-with-bonus-pulses-for-stabilizing-muscle-activation",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-strength-with-bonus-pulses-for-stabilizing-muscle-activation",
     "image": "",
     "title": "Upper Body Strength with Bonus Pulses for Stabilizing Muscle Activation",
     "subtitle": "",
@@ -3329,10 +3566,11 @@
     "detail-value 5": "14,504",
     "detail-value 6": "3,773",
     "detail-value 7": 726,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bodyweight-ascending-ladder-of-doom-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bodyweight-ascending-ladder-of-doom-workout",
     "image": "",
     "title": "Bodyweight Ascending Ladder of Doom Workout",
     "subtitle": "",
@@ -3343,10 +3581,11 @@
     "detail-value 5": "1,118",
     "detail-value 6": "301",
     "detail-value 7": 79,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-bodyweight-strength-supersets-with-isometric-holds",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-bodyweight-strength-supersets-with-isometric-holds",
     "image": "",
     "title": "Quick Bodyweight Strength Supersets with Isometric Holds",
     "subtitle": "",
@@ -3357,10 +3596,11 @@
     "detail-value 5": "1,833",
     "detail-value 6": "417",
     "detail-value 7": 133,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-workout-with-push-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-workout-with-push-intervals",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-913-lower-body-strength-workout-with-push-intervals-882a.jpg",
     "title": "Lower Body Strength Workout with Push Intervals",
     "subtitle": "",
@@ -3371,10 +3611,11 @@
     "detail-value 5": "2,667",
     "detail-value 6": "683",
     "detail-value 7": 141,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/10-minute-upper-body-and-core-stability-routine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/10-minute-upper-body-and-core-stability-routine",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-912-10-minute-upper-body-and-core-stability-routine-99f6.jpg",
     "title": "10 Minute Upper Body and Core Stability Routine",
     "subtitle": "",
@@ -3385,10 +3626,11 @@
     "detail-value 5": "1,158",
     "detail-value 6": "321",
     "detail-value 7": 49,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/strictly-strength-upper-body-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/strictly-strength-upper-body-circuits",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-911-strictly-strength-upper-body-circuits-b488.jpg",
     "title": "Strictly Strength Upper Body Circuits",
     "subtitle": "",
@@ -3399,10 +3641,11 @@
     "detail-value 5": "12,262",
     "detail-value 6": "2,572",
     "detail-value 7": 360,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/nothing-but-dynamic-balance-routine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/nothing-but-dynamic-balance-routine",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-910-nothing-but-dynamic-balance-routine-b495.jpg",
     "title": "Nothing But (Dynamic) Balance Routine",
     "subtitle": "",
@@ -3413,10 +3656,11 @@
     "detail-value 5": "2,280",
     "detail-value 6": "411",
     "detail-value 7": 80,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/barre-inspired-total-body-and-core-workout-to-tone-and-lift",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/barre-inspired-total-body-and-core-workout-to-tone-and-lift",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-909-barre-inspired-total-body-and-core-workout-to-tone-and-lift-92f5.jpg",
     "title": "Barre-Inspired Total Body and Core Workout to Tone and Lift",
     "subtitle": "",
@@ -3427,10 +3671,11 @@
     "detail-value 5": "3,110",
     "detail-value 6": "739",
     "detail-value 7": 171,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-stand-alone-or-finisher-amrap-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-stand-alone-or-finisher-amrap-circuits",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-908-total-body-stand-alone-or-finisher-amrap-circuits-b4ce.jpg",
     "title": "Total Body Stand-Alone or Finisher AMRAP Circuits",
     "subtitle": "",
@@ -3441,10 +3686,11 @@
     "detail-value 5": "686",
     "detail-value 6": "274",
     "detail-value 7": 56,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-strength-supersets-with-1-minute-challenges",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-strength-supersets-with-1-minute-challenges",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-907-upper-body-strength-supersets-with-1-minute-challenges-b60c.jpg",
     "title": "Upper Body Strength Supersets With 1-Minute Challenges",
     "subtitle": "",
@@ -3455,10 +3701,11 @@
     "detail-value 5": "4,816",
     "detail-value 6": "651",
     "detail-value 7": 221,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-strength-with-glute-focused-burnout-round-43-minute-butt-and-thigh-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-strength-with-glute-focused-burnout-round-43-minute-butt-and-thigh-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-906-lower-body-strength-with-glute-focused-burnout-round-43-minute-butt-and-thigh-workout-ae5c.jpg",
     "title": "Lower Body Strength with Glute Focused Burnout Round - 43 Minute Butt and Thigh Workout",
     "subtitle": "",
@@ -3469,10 +3716,11 @@
     "detail-value 5": "15,397",
     "detail-value 6": "3,387",
     "detail-value 7": 231,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-static-stability-using-isometric-muscle-contraction",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-static-stability-using-isometric-muscle-contraction",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-905-total-body-static-stability-using-isometric-muscle-contraction-b0a8.jpg",
     "title": "Total Body Static Stability Using Isometric Muscle Contraction",
     "subtitle": "",
@@ -3483,10 +3731,11 @@
     "detail-value 5": "1,230",
     "detail-value 6": "264",
     "detail-value 7": 51,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/unconventional-neck-stretches-including-myofascial-release-techniques",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/unconventional-neck-stretches-including-myofascial-release-techniques",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-904-unconventional-b8db.jpg",
     "title": "Unconventional Neck Stretches Including Myofascial Release Techniques",
     "subtitle": "",
@@ -3497,10 +3746,11 @@
     "detail-value 5": "892",
     "detail-value 6": "374",
     "detail-value 7": 63,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-weighted-supersets-with-bodyweight-strength-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-weighted-supersets-with-bodyweight-strength-circuits",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-896-total-body-weighted-supersets-with-bodyweight-strength-circuits-a1f6.jpg",
     "title": "Total Body Weighted Supersets with Bodyweight Strength Circuits",
     "subtitle": "",
@@ -3511,10 +3761,11 @@
     "detail-value 5": "3,579",
     "detail-value 6": "685",
     "detail-value 7": 211,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-foam-rolling-workout-for-myofascial-release",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-foam-rolling-workout-for-myofascial-release",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-900-lower-body-foam-rolling-workout-for-myofascial-release-9a0e.jpg",
     "title": "Lower Body Foam Rolling Workout for Myofascial Release",
     "subtitle": "",
@@ -3525,10 +3776,11 @@
     "detail-value 5": "1,040",
     "detail-value 6": "254",
     "detail-value 7": 24,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/low-impact-bodyweight-cardio-intervals",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/low-impact-bodyweight-cardio-intervals",
     "image": "",
     "title": "Low-Impact Bodyweight Cardio Intervals",
     "subtitle": "",
@@ -3539,10 +3791,11 @@
     "detail-value 5": "9,469",
     "detail-value 6": "1,302",
     "detail-value 7": 311,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bodyweight-total-body-strength-circuits-with-balance-work",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bodyweight-total-body-strength-circuits-with-balance-work",
     "image": "",
     "title": "Bodyweight Total Body Strength Circuits with Balance Work",
     "subtitle": "",
@@ -3553,10 +3806,11 @@
     "detail-value 5": "7,157",
     "detail-value 6": "2,626",
     "detail-value 7": 448,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/butt-and-thigh-pilates-burnout-to-strengthen-the-hips-and-core",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/butt-and-thigh-pilates-burnout-to-strengthen-the-hips-and-core",
     "image": "",
     "title": "Butt and Thigh Pilates Burnout to Strengthen the Hips and Core",
     "subtitle": "",
@@ -3567,10 +3821,11 @@
     "detail-value 5": "3,346",
     "detail-value 6": "797",
     "detail-value 7": 106,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/prenatal-core-and-pelvic-floor-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/prenatal-core-and-pelvic-floor-workout",
     "image": "",
     "title": "Prenatal Core and Pelvic Floor Workout",
     "subtitle": "",
@@ -3581,10 +3836,11 @@
     "detail-value 5": "354",
     "detail-value 6": "242",
     "detail-value 7": 47,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/dpt-led-bored-easily-routine-for-stubborn-it-band-syndrome",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/dpt-led-bored-easily-routine-for-stubborn-it-band-syndrome",
     "image": "",
     "title": "DPT-Led Bored Easily Routine for Stubborn IT Band Syndrome",
     "subtitle": "",
@@ -3595,10 +3851,11 @@
     "detail-value 5": "284",
     "detail-value 6": "229",
     "detail-value 7": 50,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-strength-circuit-with-cardio-rounds-and-bodyweight-core-intermission",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-strength-circuit-with-cardio-rounds-and-bodyweight-core-intermission",
     "image": "",
     "title": "Total Body Strength Circuit with Cardio Rounds and Bodyweight Core Intermission",
     "subtitle": "",
@@ -3609,10 +3866,11 @@
     "detail-value 5": "3,353",
     "detail-value 6": "698",
     "detail-value 7": 192,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/non-impact-core-with-active-recovery-cardio-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/non-impact-core-with-active-recovery-cardio-circuits",
     "image": "",
     "title": "Non-Impact Core with Active Recovery Cardio Circuits",
     "subtitle": "",
@@ -3623,10 +3881,11 @@
     "detail-value 5": "7,225",
     "detail-value 6": "885",
     "detail-value 7": 202,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/advanced-hip-mobility-exercises-using-functional-range-conditioning",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/advanced-hip-mobility-exercises-using-functional-range-conditioning",
     "image": "",
     "title": "Advanced Hip Mobility Exercises Using Functional Range Conditioning",
     "subtitle": "",
@@ -3637,10 +3896,11 @@
     "detail-value 5": "1,127",
     "detail-value 6": "371",
     "detail-value 7": 74,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/weighted-upper-body-strength-circuits-with-bodyweight-intermissions",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/weighted-upper-body-strength-circuits-with-bodyweight-intermissions",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-877-weighted-upper-body-strength-circuits-with-bodyweight-intermissions-8204.jpg",
     "title": "Weighted Upper Body Strength Circuits with Bodyweight Intermissions",
     "subtitle": "",
@@ -3651,10 +3911,11 @@
     "detail-value 5": "6,286",
     "detail-value 6": "805",
     "detail-value 7": 215,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-bodyweight-plank-and-lower-body-strength-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-bodyweight-plank-and-lower-body-strength-circuits",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-897-quick-bodyweight-plank-and-lower-body-strength-circuits-9d5d.jpg",
     "title": "Quick Bodyweight Plank and Lower Body Strength Circuits",
     "subtitle": "",
@@ -3665,10 +3926,11 @@
     "detail-value 5": "3,627",
     "detail-value 6": "641",
     "detail-value 7": 163,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/at-home-abs-workout-fun-core-exercises-for-toning-and-functional-strength",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/at-home-abs-workout-fun-core-exercises-for-toning-and-functional-strength",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-895-at-home-abs-workout-fun-core-exercises-for-toning-and-functional-strength-ae83.jpg",
     "title": "At Home Abs Workout - Fun Core Exercises for Toning and Functional Strength",
     "subtitle": "",
@@ -3679,10 +3941,11 @@
     "detail-value 5": "10,593",
     "detail-value 6": "3,640",
     "detail-value 7": 153,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/hiit-structured-lower-body-core-pilates-routine-for-strength-and-stability",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/hiit-structured-lower-body-core-pilates-routine-for-strength-and-stability",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-892-hiit-structured-lower-body-core-pilates-routine-for-strength-and-stability-9ba4.jpg",
     "title": "HIIT-Structured Lower Body Core Pilates Routine  for Strength and Stability",
     "subtitle": "",
@@ -3693,10 +3956,11 @@
     "detail-value 5": "5,068",
     "detail-value 6": "766",
     "detail-value 7": 211,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/effective-strengthening-moves-for-healthy-shoulder-blades",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/effective-strengthening-moves-for-healthy-shoulder-blades",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-894-effective-strengthening-moves-for-healthy-shoulder-blades-bfb3.jpg",
     "title": "Effective Strengthening Moves for Healthy Shoulder Blades",
     "subtitle": "",
@@ -3707,10 +3971,11 @@
     "detail-value 5": "738",
     "detail-value 6": "304",
     "detail-value 7": 23,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/combination-strength-circuits-with-lower-body-tabata-cardio-ii",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/combination-strength-circuits-with-lower-body-tabata-cardio-ii",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-875-combination-strength-circuits-with-lower-body-tabata-cardio-ii-8038.jpg",
     "title": "Combination Strength Circuits with Lower Body Tabata Cardio II",
     "subtitle": "",
@@ -3721,10 +3986,11 @@
     "detail-value 5": "3,184",
     "detail-value 6": "567",
     "detail-value 7": 171,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/resistance-band-workout-for-the-lower-body",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/resistance-band-workout-for-the-lower-body",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-891-resistance-band-workout-for-the-lower-body-9d30.jpg",
     "title": "Resistance Band Workout for the Lower Body",
     "subtitle": "",
@@ -3735,10 +4001,11 @@
     "detail-value 5": "1,501",
     "detail-value 6": "461",
     "detail-value 7": 52,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/nothing-but-balance-routine-for-day-to-day-movement",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/nothing-but-balance-routine-for-day-to-day-movement",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-885-nothing-but-balance-routine-for-injury-prevention-or-recovery-8cfa.jpg",
     "title": "Nothing But Balance Routine for Day-to-Day Movement",
     "subtitle": "",
@@ -3749,10 +4016,11 @@
     "detail-value 5": "2,071",
     "detail-value 6": "450",
     "detail-value 7": 83,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/self-care-for-the-wrist-and-hand-with-myofascial-release",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/self-care-for-the-wrist-and-hand-with-myofascial-release",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-887-self-care-for-the-wrist-and-hand-with-myofascial-release-be8b.jpg",
     "title": "Self-Care for the Wrist and Hand - with Myofascial Release",
     "subtitle": "",
@@ -3763,10 +4031,11 @@
     "detail-value 5": "414",
     "detail-value 6": "255",
     "detail-value 7": 26,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-core-finisher-circuits-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-core-finisher-circuits-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-884-quick-core-finisher-circuits-workout-be1b.jpg",
     "title": "Quick Core Finisher Circuits Workout",
     "subtitle": "",
@@ -3777,10 +4046,11 @@
     "detail-value 5": "4,404",
     "detail-value 6": "480",
     "detail-value 7": 113,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/fun-cardio-walking-workout-indoor-walking-workout-with-no-equipment",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/fun-cardio-walking-workout-indoor-walking-workout-with-no-equipment",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-889-fun-cardio-walking-workout-indoor-walking-workout-with-no-equipment-83e2.jpg",
     "title": "Fun Cardio Walking Workout - Indoor Walking Workout with No Equipment",
     "subtitle": "",
@@ -3791,10 +4061,11 @@
     "detail-value 5": "4,139",
     "detail-value 6": "862",
     "detail-value 7": 121,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/descending-intervals-bodyweight-hiit-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/descending-intervals-bodyweight-hiit-circuits",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-890-descending-intervals-bodyweight-hiit-circuits-bccf.jpg",
     "title": "Descending Intervals Bodyweight HIIT Circuits",
     "subtitle": "",
@@ -3805,10 +4076,11 @@
     "detail-value 5": "5,734",
     "detail-value 6": "2,995",
     "detail-value 7": 409,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/shoulder-and-neck-stability-routine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/shoulder-and-neck-stability-routine",
     "image": "",
     "title": "Shoulder and Neck Stability Routine",
     "subtitle": "",
@@ -3819,10 +4091,11 @@
     "detail-value 5": "801",
     "detail-value 6": "324",
     "detail-value 7": 49,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/circuit-style-upper-body-strength-with-cardio-bursts-part-2",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/circuit-style-upper-body-strength-with-cardio-bursts-part-2",
     "image": "",
     "title": "Circuit Style Upper Body Strength with Cardio Bursts (Part 2)",
     "subtitle": "",
@@ -3833,10 +4106,11 @@
     "detail-value 5": "3,788",
     "detail-value 6": "557",
     "detail-value 7": 152,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/10-minute-lower-body-stretch-with-yoga-strap-or-towel",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/10-minute-lower-body-stretch-with-yoga-strap-or-towel",
     "image": "",
     "title": "10 Minute Lower Body Stretch with Yoga Strap or Towel",
     "subtitle": "",
@@ -3847,10 +4121,11 @@
     "detail-value 5": "1,815",
     "detail-value 6": "317",
     "detail-value 7": 23,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/lower-body-motor-control-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/lower-body-motor-control-workout",
     "image": "",
     "title": "Lower Body Motor Control Workout",
     "subtitle": "",
@@ -3861,10 +4136,11 @@
     "detail-value 5": "2,839",
     "detail-value 6": "509",
     "detail-value 7": 113,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/foot-ankle-series-part-2-foot-and-ankle-strengthening",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/foot-ankle-series-part-2-foot-and-ankle-strengthening",
     "image": "",
     "title": "Foot/Ankle Series (Part 2): Foot and Ankle Strengthening",
     "subtitle": "",
@@ -3875,10 +4151,11 @@
     "detail-value 5": "351",
     "detail-value 6": "259",
     "detail-value 7": 16,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/weighted-emoms-with-bodyweight-strength-and-cardio-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/weighted-emoms-with-bodyweight-strength-and-cardio-circuits",
     "image": "",
     "title": "Weighted EMOMs with Bodyweight Strength and Cardio Circuits",
     "subtitle": "",
@@ -3889,10 +4166,11 @@
     "detail-value 5": "2,288",
     "detail-value 6": "483",
     "detail-value 7": 187,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-3-day-split-shoulders-and-lats-strength-workout-split",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-3-day-split-shoulders-and-lats-strength-workout-split",
     "image": "",
     "title": "Upper Body 3-Day Split - Shoulders and Lats Strength Workout Split",
     "subtitle": "",
@@ -3903,10 +4181,11 @@
     "detail-value 5": "3,028",
     "detail-value 6": "362",
     "detail-value 7": 56,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/weighted-core-strength-routine-home-abs-mass-dumbbell-routine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/weighted-core-strength-routine-home-abs-mass-dumbbell-routine",
     "image": "",
     "title": "Weighted Core Strength Routine - Home Abs Mass Dumbbell Routine",
     "subtitle": "",
@@ -3917,10 +4196,11 @@
     "detail-value 5": "6,294",
     "detail-value 6": "1,490",
     "detail-value 7": 50,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/complete-upper-body-stretching-and-mobility-routine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/complete-upper-body-stretching-and-mobility-routine",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-872-complete-upper-body-stretching-and-mobility-routine-81b4.jpg",
     "title": "Complete Upper-Body Stretching and Mobility Routine",
     "subtitle": "",
@@ -3931,10 +4211,11 @@
     "detail-value 5": "3,328",
     "detail-value 6": "659",
     "detail-value 7": 142,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/daily-stretches-for-mobility-and-better-movement",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/daily-stretches-for-mobility-and-better-movement",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-873-daily-stretches-for-mobility-and-better-movement-b0e0.jpg",
     "title": "Daily Stretches for Mobility and Better Movement",
     "subtitle": "",
@@ -3945,10 +4226,11 @@
     "detail-value 5": "9,067",
     "detail-value 6": "912",
     "detail-value 7": 165,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/circuit-style-lower-body-strength-with-cardio-bursts-part-2",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/circuit-style-lower-body-strength-with-cardio-bursts-part-2",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-861-circuit-style-lower-body-strength-with-cardio-bursts-part-2-a669.jpg",
     "title": "Circuit Style Lower Body Strength with Cardio Bursts (Part 2)",
     "subtitle": "",
@@ -3959,10 +4241,11 @@
     "detail-value 5": "1,366",
     "detail-value 6": "479",
     "detail-value 7": 138,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-3-day-split-chest-and-triceps-strength-workout-split",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-3-day-split-chest-and-triceps-strength-workout-split",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-878-upper-body-3-day-split-chest-and-triceps-strength-workout-split-ba3b.jpg",
     "title": "Upper Body 3-Day Split - Chest and Triceps Strength Workout Split",
     "subtitle": "",
@@ -3973,10 +4256,11 @@
     "detail-value 5": "3,925",
     "detail-value 6": "414",
     "detail-value 7": 68,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/stability-routine-for-hypermobility",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/stability-routine-for-hypermobility",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-863-stability-routine-for-hypermobility-ad15.jpg",
     "title": "Joint and Core Stability Routine for Hypermobility",
     "subtitle": "",
@@ -3987,10 +4271,11 @@
     "detail-value 5": "377",
     "detail-value 6": "244",
     "detail-value 7": 44,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/remove-one-style-total-body-strength-and-cardio-circuit-with-bodyweight-strength-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/remove-one-style-total-body-strength-and-cardio-circuit-with-bodyweight-strength-finisher",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-874-remove-one-style-total-body-strength-and-cardio-circuit-with-bodyweight-strength-finisher-9d93.jpg",
     "title": "Remove-One Style Total Body Strength and Cardio Circuit with Bodyweight Strength Finisher",
     "subtitle": "",
@@ -4001,10 +4286,11 @@
     "detail-value 5": "4,885",
     "detail-value 6": "837",
     "detail-value 7": 443,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/upper-body-3-day-split-back-and-biceps-strength-workout-split",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/upper-body-3-day-split-back-and-biceps-strength-workout-split",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-862-upper-body-split-day-1-back-and-biceps-strength-workout-ba17.jpg",
     "title": "Upper Body 3-Day Split - Back and Biceps Strength Workout Split",
     "subtitle": "",
@@ -4015,10 +4301,11 @@
     "detail-value 5": "3,725",
     "detail-value 6": "444",
     "detail-value 7": 70,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/bored-easily-bodyweight-cardio-workout-with-high-and-low-impact-modifications",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/bored-easily-bodyweight-cardio-workout-with-high-and-low-impact-modifications",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-870-bored-easily-bodyweight-cardio-workout-with-high-and-low-impact-modifications-9b21.jpg",
     "title": "Bored Easily Bodyweight Cardio Workout with High and Low Impact Modifications",
     "subtitle": "",
@@ -4029,10 +4316,11 @@
     "detail-value 5": "20,847",
     "detail-value 6": "5,949",
     "detail-value 7": 300,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/thoracic-mobility-stretches-for-desk-posture",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/thoracic-mobility-stretches-for-desk-posture",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-866-thoracic-mobility-stretches-for-desk-posture-8583.jpg",
     "title": "Thoracic Mobility Stretches for Desk Posture",
     "subtitle": "",
@@ -4043,10 +4331,11 @@
     "detail-value 5": "2,606",
     "detail-value 6": "609",
     "detail-value 7": 75,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/relaxing-stretches-for-an-extended-cool-down-or-stiff-muscle-day",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/relaxing-stretches-for-an-extended-cool-down-or-stiff-muscle-day",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-871-relaxing-stretches-for-an-extended-cool-down-or-stiff-muscle-day-ad4c.jpg",
     "title": "Relaxing Stretches for an Extended Cool-Down or Stiff Muscle Day",
     "subtitle": "",
@@ -4057,10 +4346,11 @@
     "detail-value 5": "9,112",
     "detail-value 6": "746",
     "detail-value 7": 146,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/workout-with-me-lower-body-strength-hiit-cardio-bursts-with-dumbbells-and-step",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/workout-with-me-lower-body-strength-hiit-cardio-bursts-with-dumbbells-and-step",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-851-workout-with-me-lower-body-strength-and-hiit-cardio-bursts-with-dumbbells-and-step-be5e.jpg",
     "title": "Work Out With Me! Lower Body Strength & HIIT Cardio Bursts With Dumbbells and Step",
     "subtitle": "",
@@ -4071,10 +4361,11 @@
     "detail-value 5": "4,595",
     "detail-value 6": "859",
     "detail-value 7": 231,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/foot-ankle-series-part-1-foot-intrinsic-activation",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/foot-ankle-series-part-1-foot-intrinsic-activation",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-865-footankle-series-part-1-foot-intrinsic-activation-b5cb.jpg",
     "title": "Foot/Ankle Series (Part 1): Foot Intrinsic Activation and Myofascial Release",
     "subtitle": "",
@@ -4085,10 +4376,11 @@
     "detail-value 5": "1,766",
     "detail-value 6": "414",
     "detail-value 7": 110,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/single-dumbbell-strength-circuit-with-bodyweight-cardio-amrap-finishers",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/single-dumbbell-strength-circuit-with-bodyweight-cardio-amrap-finishers",
     "image": "",
     "title": "Single-Dumbbell Strength Circuit with Bodyweight Cardio AMRAP Finishers",
     "subtitle": "",
@@ -4099,10 +4391,11 @@
     "detail-value 5": "3,270",
     "detail-value 6": "557",
     "detail-value 7": 192,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/resistance-band-upper-body-workout-bored-easily-style",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/resistance-band-upper-body-workout-bored-easily-style",
     "image": "",
     "title": "Resistance Band Upper Body Workout (Bored Easily Style)",
     "subtitle": "",
@@ -4113,10 +4406,11 @@
     "detail-value 5": "1,778",
     "detail-value 6": "524",
     "detail-value 7": 130,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/three-round-combination-moves-strength-circuit-with-plank-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/three-round-combination-moves-strength-circuit-with-plank-finisher",
     "image": "",
     "title": "Three-Round Combination Moves Strength Circuit with Plank Finisher",
     "subtitle": "",
@@ -4127,10 +4421,11 @@
     "detail-value 5": "12,061",
     "detail-value 6": "3,295",
     "detail-value 7": 554,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/stabilizing-workout-for-deep-hip-muscles",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/stabilizing-workout-for-deep-hip-muscles",
     "image": "",
     "title": "Stabilizing Workout for Deep Hip Muscles",
     "subtitle": "",
@@ -4141,10 +4436,11 @@
     "detail-value 5": "902",
     "detail-value 6": "481",
     "detail-value 7": 89,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/single-dumbbell-tabata-circuits-with-ladder-up-style-bodyweight-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/single-dumbbell-tabata-circuits-with-ladder-up-style-bodyweight-circuits",
     "image": "",
     "title": "Single-Dumbbell Tabata Circuits with Ladder-Up Style Bodyweight Circuits",
     "subtitle": "",
@@ -4155,10 +4451,11 @@
     "detail-value 5": "1,200",
     "detail-value 6": "428",
     "detail-value 7": 192,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/fun-total-body-medicine-ball-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/fun-total-body-medicine-ball-workout",
     "image": "",
     "title": "Fun Total Body Medicine Ball Workout",
     "subtitle": "",
@@ -4169,10 +4466,11 @@
     "detail-value 5": "652",
     "detail-value 6": "219",
     "detail-value 7": 70,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/stabilization-routine-for-diastasis-recti",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/stabilization-routine-for-diastasis-recti",
     "image": "",
     "title": "Stabilization Routine for Diastasis Recti",
     "subtitle": "",
@@ -4183,10 +4481,11 @@
     "detail-value 5": "599",
     "detail-value 6": "262",
     "detail-value 7": 33,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-non-impact-core-stand-alone-or-finisher-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-non-impact-core-stand-alone-or-finisher-circuits",
     "image": "",
     "title": "Quick Non-Impact Core Stand-Alone or Finisher Circuits",
     "subtitle": "",
@@ -4197,10 +4496,11 @@
     "detail-value 5": "3,674",
     "detail-value 6": "662",
     "detail-value 7": 154,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/no-equipment-pyramid-hiit-workout-fun-and-challenging-pyramid-style-interval-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/no-equipment-pyramid-hiit-workout-fun-and-challenging-pyramid-style-interval-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-850-no-equipment-pyramid-hiit-workout-fun-and-challenging-pyramid-style-interval-workout-8033.jpg",
     "title": "No Equipment Pyramid HIIT Workout - Fun and Challenging Pyramid-Style Interval Workout",
     "subtitle": "",
@@ -4211,10 +4511,11 @@
     "detail-value 5": "2,379",
     "detail-value 6": "539",
     "detail-value 7": 64,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/total-body-cardio-warm-up-workout-to-wake-up-the-body-and-mind",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/total-body-cardio-warm-up-workout-to-wake-up-the-body-and-mind",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-843-total-body-cardio-warm-up-workout-to-wake-up-the-body-and-mind-b6f5.jpg",
     "title": "Total Body Cardio Warm Up Workout to Wake up the Body and Mind",
     "subtitle": "",
@@ -4225,10 +4526,11 @@
     "detail-value 5": "10,987",
     "detail-value 6": "2,925",
     "detail-value 7": 33,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/weighted-lower-body-strength-circuits-with-bodyweight-intermissions",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/weighted-lower-body-strength-circuits-with-bodyweight-intermissions",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-849-weighted-lower-body-strength-circuits-with-bodyweight-intermissions-ad1d.jpg",
     "title": "Weighted Lower Body Strength Circuits with Bodyweight Intermissions",
     "subtitle": "",
@@ -4239,10 +4541,11 @@
     "detail-value 5": "9,450",
     "detail-value 6": "1,130",
     "detail-value 7": 522,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/knee-friendly-lower-body-stability-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/knee-friendly-lower-body-stability-workout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-839-knee-friendly-lower-body-stability-workout-95fd.jpg",
     "title": "Knee-Friendly Lower Body Workout that Still Packs a Punch",
     "subtitle": "",
@@ -4253,10 +4556,11 @@
     "detail-value 5": "730",
     "detail-value 6": "444",
     "detail-value 7": 83,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/three-round-total-body-strength-and-cardio-kettlebell-circuit",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/three-round-total-body-strength-and-cardio-kettlebell-circuit",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-848-three-round-total-body-strength-and-cardio-kettlebell-circuit-a22d.jpg",
     "title": "Three-Round Total Body Strength and Cardio Kettlebell Circuit",
     "subtitle": "",
@@ -4267,10 +4571,11 @@
     "detail-value 5": "2,099",
     "detail-value 6": "529",
     "detail-value 7": 122,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/ascending-rep-pilates-workout-with-resistance-band-burnout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/ascending-rep-pilates-workout-with-resistance-band-burnout",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-842-ascending-rep-pilates-workout-with-resistance-band-burnout-b29d.jpg",
     "title": "Ascending Rep Pilates Workout with Resistance Band Burnout",
     "subtitle": "",
@@ -4281,10 +4586,11 @@
     "detail-value 5": "1,334",
     "detail-value 6": "562",
     "detail-value 7": 75,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/quick-lower-body-focused-bodyweight-hiit-circuits",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/quick-lower-body-focused-bodyweight-hiit-circuits",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-847-quick-lower-body-focused-bodyweight-hiit-circuits-8d43.jpg",
     "title": "Quick Lower Body-Focused Bodyweight HIIT Circuits",
     "subtitle": "",
@@ -4295,10 +4601,11 @@
     "detail-value 5": "5,851",
     "detail-value 6": "3,021",
     "detail-value 7": 458,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/add-on-style-total-body-cardio-circuit-with-core-and-lower-body-strength-finisher",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/add-on-style-total-body-cardio-circuit-with-core-and-lower-body-strength-finisher",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-846-add-on-style-total-body-cardio-circuit-with-core-and-lower-body-strength-finisher-9a5e.jpg",
     "title": "Add-On Style Total Body Cardio Circuit with Core and Lower Body Strength Finisher",
     "subtitle": "",
@@ -4309,10 +4616,11 @@
     "detail-value 5": "3,744",
     "detail-value 6": "622",
     "detail-value 7": 404,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/deltoid-burnout-mass-workout-home-shoulder-isolation-routine",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/deltoid-burnout-mass-workout-home-shoulder-isolation-routine",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-844-deltoid-burnout-mass-workout-home-shoulder-isolation-routine-869a.jpg",
     "title": "Deltoid Burnout Mass Workout - Home Shoulder Isolation Routine",
     "subtitle": "",
@@ -4323,10 +4631,11 @@
     "detail-value 5": "783",
     "detail-value 6": "248",
     "detail-value 7": 33,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/exercises-to-correct-anterior-pelvic-tilt",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/exercises-to-correct-anterior-pelvic-tilt",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-838-exercises-to-correct-anterior-pelvic-tilt-885c.jpg",
     "title": "Exercises to Correct Anterior Pelvic Tilt",
     "subtitle": "",
@@ -4337,10 +4646,11 @@
     "detail-value 5": "786",
     "detail-value 6": "439",
     "detail-value 7": 60,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/circuit-style-lower-body-strength-with-cardio-bursts",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/circuit-style-lower-body-strength-with-cardio-bursts",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-836-circuit-style-lower-body-strength-with-cardio-bursts-96fc.jpg",
     "title": "Circuit-Style Lower Body Strength with Cardio Bursts",
     "subtitle": "",
@@ -4351,10 +4661,11 @@
     "detail-value 5": "4,612",
     "detail-value 6": "872",
     "detail-value 7": 332,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/relaxing-total-body-stretch",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/relaxing-total-body-stretch",
     "image": "https://d18zdz9g6n5za7.cloudfront.net/video/640/640-840-relaxing-total-body-stretch-b863.jpg",
     "title": "Relaxing Total Body Stretch",
     "subtitle": "",
@@ -4365,10 +4676,11 @@
     "detail-value 5": "7,147",
     "detail-value 6": "835",
     "detail-value 7": 68,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/ascending-ladder-of-doom-hiit-ladder-interval-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/ascending-ladder-of-doom-hiit-ladder-interval-workout",
     "image": "",
     "title": "Ascending Ladder of Doom - HIIT Ladder Interval Workout",
     "subtitle": "",
@@ -4379,10 +4691,11 @@
     "detail-value 5": "4,085",
     "detail-value 6": "1,978",
     "detail-value 7": 114,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/circuit-style-upper-body-strength-with-cardio-bursts",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/circuit-style-upper-body-strength-with-cardio-bursts",
     "image": "",
     "title": "Circuit-Style Upper Body Strength with Cardio Bursts",
     "subtitle": "",
@@ -4393,10 +4706,11 @@
     "detail-value 5": "6,714",
     "detail-value 6": "883",
     "detail-value 7": 316,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/30-minute-bored-easily-total-body-strength-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/30-minute-bored-easily-total-body-strength-workout",
     "image": "",
     "title": "30 Minute Bored Easily Total Body Strength Workout",
     "subtitle": "",
@@ -4407,10 +4721,11 @@
     "detail-value 5": "17,947",
     "detail-value 6": "2,173",
     "detail-value 7": 187,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/unconventional-stretches-for-back-pain",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/unconventional-stretches-for-back-pain",
     "image": "",
     "title": "Unconventional Stretches for Back Pain",
     "subtitle": "",
@@ -4421,10 +4736,11 @@
     "detail-value 5": "3,593",
     "detail-value 6": "629",
     "detail-value 7": 92,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/three-circuit-three-minute-amrap-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/three-circuit-three-minute-amrap-workout",
     "image": "",
     "title": "Three-Circuit Three-Minute AMRAP Workout",
     "subtitle": "",
@@ -4435,10 +4751,11 @@
     "detail-value 5": "3,574",
     "detail-value 6": "477",
     "detail-value 7": 158,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/challenging-but-quick-total-body-hiit-brutal-at-home-hiit-workout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/challenging-but-quick-total-body-hiit-brutal-at-home-hiit-workout",
     "image": "",
     "title": "Challenging But Quick Total Body HIIT - Brutal At-Home HIIT Workout",
     "subtitle": "",
@@ -4449,10 +4766,11 @@
     "detail-value 5": "1,935",
     "detail-value 6": "425",
     "detail-value 7": 54,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/10-minute-lower-body-strength-workout-butt-and-thigh-burnout",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/10-minute-lower-body-strength-workout-butt-and-thigh-burnout",
     "image": "",
     "title": "10 Minute Lower Body Strength Workout: Butt and Thigh Burnout",
     "subtitle": "",
@@ -4463,10 +4781,11 @@
     "detail-value 5": "10,671",
     "detail-value 6": "3,068",
     "detail-value 7": 77,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   },
   {
-    "card-content href": "https://www.fitnessblender.com/videos/circuit-style-strength-training-with-lower-body-cardio-bursts",
+    "cardcontenthref": "https://www.fitnessblender.com/videos/circuit-style-strength-training-with-lower-body-cardio-bursts",
     "image": "",
     "title": "Circuit-Style Strength Training with Lower Body Cardio Bursts",
     "subtitle": "",
@@ -4477,6 +4796,7 @@
     "detail-value 5": "1,424",
     "detail-value 6": "585",
     "detail-value 7": 187,
-    "-hidden": ""
+    "-hidden": "",
+    "price": "$1.99"
   }
 ]
