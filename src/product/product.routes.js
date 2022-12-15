@@ -124,6 +124,10 @@ app.post("/", authMiddleware, async (req, res) => {
       category,
     } = req.body;
 
+    if (req.role !== "admin") {
+      return res.status(403).send({ message: "You are not an admin" });
+    }
+
     const product = await Product.create({
       image,
       title,
@@ -163,6 +167,10 @@ app.patch("/:id", authMiddleware, async (req, res) => {
       category,
     } = req.body;
 
+    if (req.role !== "admin") {
+      return res.status(403).send({ message: "You are not an admin" });
+    }
+
     const product = await Product.findByIdAndUpdate(
       id,
       {
@@ -191,7 +199,16 @@ app.patch("/:id", authMiddleware, async (req, res) => {
 app.delete("/:id", authMiddleware, async (req, res) => {
   try {
     const { id } = req.params;
-    const product = await Product.findByIdAndDelete(id);
+
+    if (req.role !== "admin") {
+      return res.status(403).send({ message: "You are not an admin" });
+    }
+
+    const product = await Product.findById(id);
+
+    return res.send({ message: "Deleted successfully", product });
+
+    // const product = await Product.findByIdAndDelete(id);
 
     return res.status(200).send({ product });
   } catch (error) {
