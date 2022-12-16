@@ -2,12 +2,12 @@ const mongoose = require("mongoose");
 const url = process.env.DB_URL;
 
 const connect = () => {
+  mongoose.set("strictQuery", true);
   return mongoose.connect(
     url,
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
-      useStrictQuery: true,
     },
     (err) => {
       if (err) {
