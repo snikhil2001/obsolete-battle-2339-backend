@@ -27,6 +27,8 @@ app.get("/", async (req, res) => {
       page = 1;
     }
 
+    let productlength = await Product.find({ category });
+
     let product = await Product.find({ category })
       .limit(+limit)
       .skip((+page - 1) * +limit);
@@ -87,7 +89,7 @@ app.get("/", async (req, res) => {
       });
     }
 
-    return res.send(product);
+    return res.send({ product, length: productlength.length });
   } catch (error) {
     return res.status(404).send({ error: error.message });
   }
