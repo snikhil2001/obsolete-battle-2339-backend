@@ -204,7 +204,7 @@ app.delete("/:id", authMiddleware, async (req, res) => {
       return res.status(403).send({ message: "You are not an admin" });
     }
 
-    const product = await Product.findById(id);
+    const product = await Product.findByIdAndDelete(id);
 
     return res.send({ message: "Deleted successfully", product });
 
