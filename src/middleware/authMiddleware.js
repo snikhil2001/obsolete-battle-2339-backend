@@ -2,13 +2,12 @@ const User = require("../auth/auth.model");
 const jwt = require("jsonwebtoken");
 
 const authMiddleware = async (req, res, next) => {
-  const token = req.headers.token;
-
-  if (!token) {
-    return res.status(404).send({ message: "token is required" });
-  }
-
   try {
+    const token = req.headers.token;
+
+    if (!token) {
+      return res.status(404).send({ message: "token is required" });
+    }
     const decoded = jwt.verify(token, process.env.SECRET_PASSWORD);
 
     if (!decoded) {
