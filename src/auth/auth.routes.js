@@ -82,7 +82,8 @@ app.post("/login", async (req, res) => {
       username: user.username,
       role: user.role,
     },
-    secret
+    secret,
+    { expiresIn: "7 days" }
   );
 
   return res.send({ message: "login success", token });
